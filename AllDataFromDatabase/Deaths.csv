@@ -1,536 +1,1 @@
-GENESIS-Tabelle: 179-01-4;;;;;
-Sterbefälle: Gestorbene nach Geschlecht - Jahressumme -;;;;;
-regionale Tiefe: Kreise und krfr. Städte;;;;;
-Statistik der Sterbefälle;;;;;
-Gestorbene (Anzahl);;;;;
-;;;Geschlecht;Geschlecht;Geschlecht
-;;;Insgesamt;männlich;weiblich
-2015;DG;Deutschland;925200;449512;475688
-2015;1;  Schleswig-Holstein;33663;16587;17076
-2015;1001;      Flensburg, Kreisfreie Stadt;1064;508;556
-2015;1002;      Kiel, Landeshauptstadt, Kreisfreie Stadt;2443;1189;1254
-2015;1003;      Lübeck, Hansestadt, Kreisfreie Stadt;2860;1416;1444
-2015;1004;      Neumünster, Kreisfreie Stadt;1014;519;495
-2015;1051;      Dithmarschen, Landkreis;1845;934;911
-2015;1053;      Herzogtum Lauenburg, Landkreis;2264;1094;1170
-2015;1054;      Nordfriesland, Landkreis;1985;1011;974
-2015;1055;      Ostholstein, Landkreis;2760;1352;1408
-2015;1056;      Pinneberg, Landkreis;3407;1695;1712
-2015;1057;      Plön, Landkreis;1541;759;782
-2015;1058;      Rendsburg-Eckernförde, Landkreis;3027;1503;1524
-2015;1059;      Schleswig-Flensburg, Landkreis;2387;1163;1224
-2015;1060;      Segeberg, Landkreis;2831;1389;1442
-2015;1061;      Steinburg, Landkreis;1611;835;776
-2015;1062;      Stormarn, Landkreis;2624;1220;1404
-2015;2;  Hamburg;17565;8321;9244
-2015;3;  Niedersachsen;92460;45146;47314
-2015;31;    Braunschweig, Stat. Region;19815;9684;10131
-2015;3101;      Braunschweig, Kreisfreie Stadt;2838;1363;1475
-2015;3102;      Salzgitter, Kreisfreie Stadt;1390;694;696
-2015;3103;      Wolfsburg, Kreisfreie Stadt;1480;743;737
-2015;3151;      Gifhorn, Landkreis;1719;906;813
-2015;3152;      Göttingen, Landkreis;2743;1328;1415
-2015;3153;      Goslar, Landkreis;2070;978;1092
-2015;3154;      Helmstedt, Landkreis;1347;692;655
-2015;3155;      Northeim, Landkreis;1869;914;955
-2015;3156;      Osterode am Harz, Landkreis;1274;604;670
-2015;3157;      Peine, Landkreis;1593;743;850
-2015;3158;      Wolfenbüttel, Landkreis;1492;719;773
-2015;32;    Hannover, Stat. Region;25950;12583;13367
-2015;3241;      Region Hannover, Landkreis;12781;6145;6636
-2015;3241001;      Hannover, Landeshauptstadt;5621;2683;2938
-2015;3251;      Diepholz, Landkreis;2528;1300;1228
-2015;3252;      Hameln-Pyrmont, Landkreis;2148;1003;1145
-2015;3254;      Hildesheim, Landkreis;3608;1722;1886
-2015;3255;      Holzminden, Landkreis;1021;511;510
-2015;3256;      Nienburg (Weser), Landkreis;1583;803;780
-2015;3257;      Schaumburg, Landkreis;2281;1099;1182
-2015;33;    Lüneburg, Stat. Region;19641;9683;9958
-2015;3351;      Celle, Landkreis;2177;1069;1108
-2015;3352;      Cuxhaven, Landkreis;2619;1285;1334
-2015;3353;      Harburg, Landkreis;2579;1284;1295
-2015;3354;      Lüchow-Dannenberg, Landkreis;724;342;382
-2015;3355;      Lüneburg, Landkreis;1890;926;964
-2015;3356;      Osterholz, Landkreis;1259;622;637
-2015;3357;      Rotenburg (Wümme), Landkreis;1783;918;865
-2015;3358;      Heidekreis, Landkreis;1656;838;818
-2015;3359;      Stade, Landkreis;2107;1044;1063
-2015;3360;      Uelzen, Landkreis;1375;675;700
-2015;3361;      Verden, Landkreis;1472;680;792
-2015;34;    Weser-Ems, Stat. Region;27054;13196;13858
-2015;3401;      Delmenhorst, Kreisfreie Stadt;847;427;420
-2015;3402;      Emden, Kreisfreie Stadt;633;304;329
-2015;3403;      Oldenburg (Oldenburg), Kreisfreie Stadt;1661;761;900
-2015;3404;      Osnabrück, Kreisfreie Stadt;1616;749;867
-2015;3405;      Wilhelmshaven, Kreisfreie Stadt;1105;517;588
-2015;3451;      Ammerland, Landkreis;1329;650;679
-2015;3452;      Aurich, Landkreis;2397;1220;1177
-2015;3453;      Cloppenburg, Landkreis;1505;770;735
-2015;3454;      Emsland, Landkreis;3260;1636;1624
-2015;3455;      Friesland, Landkreis;1235;579;656
-2015;3456;      Grafschaft Bentheim, Landkreis;1412;674;738
-2015;3457;      Leer, Landkreis;1947;959;988
-2015;3458;      Oldenburg, Landkreis;1394;690;704
-2015;3459;      Osnabrück, Landkreis;3739;1824;1915
-2015;3460;      Vechta, Landkreis;1130;537;593
-2015;3461;      Wesermarsch, Landkreis;1144;557;587
-2015;3462;      Wittmund, Landkreis;700;342;358
-2015;4;  Bremen;7811;3839;3972
-2015;4011;      Bremen, Kreisfreie Stadt;6316;3076;3240
-2015;4012;      Bremerhaven, Kreisfreie Stadt;1495;763;732
-2015;5;  Nordrhein-Westfalen;204352;98881;105471
-2015;51;    Düsseldorf, Regierungsbezirk;61986;29936;32050
-2015;5111;      Düsseldorf, Kreisfreie Stadt;6327;2959;3368
-2015;5112;      Duisburg, Kreisfreie Stadt;6317;3140;3177
-2015;5113;      Essen, Kreisfreie Stadt;7457;3546;3911
-2015;5114;      Krefeld, Kreisfreie Stadt;2745;1291;1454
-2015;5116;      Mönchengladbach, Kreisfreie Stadt;3166;1520;1646
-2015;5117;      Mülheim an der Ruhr, Kreisfreie Stadt;2224;1056;1168
-2015;5119;      Oberhausen, Kreisfreie Stadt;2773;1353;1420
-2015;5120;      Remscheid, Kreisfreie Stadt;1453;708;745
-2015;5122;      Solingen, Kreisfreie Stadt;2033;927;1106
-2015;5124;      Wuppertal, Kreisfreie Stadt;4175;2058;2117
-2015;5154;      Kleve, Kreis;3519;1742;1777
-2015;5158;      Mettmann, Kreis;5952;2835;3117
-2015;5162;      Rhein-Kreis Neuss;4970;2506;2464
-2015;5166;      Viersen, Kreis;3377;1563;1814
-2015;5170;      Wesel, Kreis;5498;2732;2766
-2015;53;    Köln, Regierungsbezirk;46402;22473;23929
-2015;5314;      Bonn, Kreisfreie Stadt;2932;1417;1515
-2015;5315;      Köln, Kreisfreie Stadt;9890;4833;5057
-2015;5316;      Leverkusen, Kreisfreie Stadt;1904;933;971
-2015;5334;      Städteregion Aachen (einschl. Stadt Aachen);5980;2833;3147
-2015;5334002;      Aachen, krfr. Stadt;2373;1129;1244
-2015;5354;      Aachen, Kreis;-;-;-
-2015;5358;      Düren, Kreis;3168;1515;1653
-2015;5362;      Rhein-Erft-Kreis;4914;2427;2487
-2015;5366;      Euskirchen, Kreis;2317;1149;1168
-2015;5370;      Heinsberg, Kreis;2870;1385;1485
-2015;5374;      Oberbergischer Kreis;3244;1511;1733
-2015;5378;      Rheinisch-Bergischer Kreis;3133;1550;1583
-2015;5382;      Rhein-Sieg-Kreis;6050;2920;3130
-2015;55;    Münster, Regierungsbezirk;28536;13939;14597
-2015;5512;      Bottrop, Kreisfreie Stadt;1508;694;814
-2015;5513;      Gelsenkirchen, Kreisfreie Stadt;3448;1733;1715
-2015;5515;      Münster, Kreisfreie Stadt;2642;1232;1410
-2015;5554;      Borken, Kreis;3681;1792;1889
-2015;5558;      Coesfeld, Kreis;2187;1007;1180
-2015;5562;      Recklinghausen, Kreis;7816;3842;3974
-2015;5566;      Steinfurt, Kreis;4509;2263;2246
-2015;5570;      Warendorf, Kreis;2745;1376;1369
-2015;57;    Detmold, Regierungsbezirk;22568;10851;11717
-2015;5711;      Bielefeld, Kreisfreie Stadt;3571;1727;1844
-2015;5754;      Gütersloh, Kreis;3488;1693;1795
-2015;5758;      Herford, Kreis;3004;1380;1624
-2015;5762;      Höxter, Kreis;1710;843;867
-2015;5766;      Lippe, Kreis;4330;2072;2258
-2015;5770;      Minden-Lübbecke, Kreis;3651;1755;1896
-2015;5774;      Paderborn, Kreis;2814;1381;1433
-2015;59;    Arnsberg, Regierungsbezirk;44860;21682;23178
-2015;5911;      Bochum, Kreisfreie Stadt;4641;2262;2379
-2015;5913;      Dortmund, Kreisfreie Stadt;7204;3503;3701
-2015;5914;      Hagen, Kreisfreie Stadt;2549;1231;1318
-2015;5915;      Hamm, Kreisfreie Stadt;2129;1043;1086
-2015;5916;      Herne, Kreisfreie Stadt;2126;1020;1106
-2015;5954;      Ennepe-Ruhr-Kreis;4405;2118;2287
-2015;5958;      Hochsauerlandkreis;3319;1612;1707
-2015;5962;      Märkischer Kreis;5062;2454;2608
-2015;5966;      Olpe, Kreis;1497;692;805
-2015;5970;      Siegen-Wittgenstein, Kreis;3262;1591;1671
-2015;5974;      Soest, Kreis;3604;1714;1890
-2015;5978;      Unna, Kreis;5062;2442;2620
-2015;6;  Hessen;66534;32407;34127
-2015;64;    Darmstadt, Regierungsbezirk;39631;19311;20320
-2015;6411;      Darmstadt, Kreisfreie Stadt;1542;715;827
-2015;6412;      Frankfurt am Main, Kreisfreie Stadt;6171;3048;3123
-2015;6413;      Offenbach am Main, Kreisfreie Stadt;1133;571;562
-2015;6414;      Wiesbaden, Landeshauptstadt, Kreisfreie Stadt;2893;1367;1526
-2015;6431;      Bergstraße, Landkreis;3090;1500;1590
-2015;6432;      Darmstadt-Dieburg, Landkreis;2947;1452;1495
-2015;6433;      Groß-Gerau, Landkreis;2604;1293;1311
-2015;6434;      Hochtaunuskreis;2444;1164;1280
-2015;6435;      Main-Kinzig-Kreis;4443;2167;2276
-2015;6436;      Main-Taunus-Kreis;2333;1117;1216
-2015;6437;      Odenwaldkreis;1191;586;605
-2015;6438;      Offenbach, Landkreis;3556;1755;1801
-2015;6439;      Rheingau-Taunus-Kreis;1976;953;1023
-2015;6440;      Wetteraukreis;3308;1623;1685
-2015;65;    Gießen, Regierungsbezirk;11859;5840;6019
-2015;6531;      Gießen, Landkreis;2780;1391;1389
-2015;6532;      Lahn-Dill-Kreis;3081;1440;1641
-2015;6533;      Limburg-Weilburg, Landkreis;2007;977;1030
-2015;6534;      Marburg-Biedenkopf, Landkreis;2563;1290;1273
-2015;6535;      Vogelsbergkreis;1428;742;686
-2015;66;    Kassel, Regierungsbezirk;15044;7256;7788
-2015;6611;      Kassel, Kreisfreie Stadt;2178;1029;1149
-2015;6631;      Fulda, Landkreis;2394;1138;1256
-2015;6632;      Hersfeld-Rotenburg, Landkreis;1640;790;850
-2015;6633;      Kassel, Landkreis;2922;1399;1523
-2015;6634;      Schwalm-Eder-Kreis;2322;1174;1148
-2015;6635;      Waldeck-Frankenberg, Landkreis;2087;1015;1072
-2015;6636;      Werra-Meißner-Kreis;1501;711;790
-2015;7;  Rheinland-Pfalz;46777;22572;24205
-2015;71;    Koblenz, Stat. Region;18100;8780;9320
-2015;7111;      Koblenz, Kreisfreie Stadt;1318;631;687
-2015;7131;      Ahrweiler, Landkreis;1605;778;827
-2015;7132;      Altenkirchen (Westerwald), Landkreis;1600;747;853
-2015;7133;      Bad Kreuznach, Landkreis;1932;920;1012
-2015;7134;      Birkenfeld, Landkreis;1200;569;631
-2015;7135;      Cochem-Zell, Landkreis;842;418;424
-2015;7137;      Mayen-Koblenz, Landkreis;2301;1140;1161
-2015;7138;      Neuwied, Landkreis;2158;1057;1101
-2015;7140;      Rhein-Hunsrück-Kreis;1283;634;649
-2015;7141;      Rhein-Lahn-Kreis;1550;735;815
-2015;7143;      Westerwaldkreis;2311;1151;1160
-2015;72;    Trier, Stat. Region;6053;2850;3203
-2015;7211;      Trier, Kreisfreie Stadt;1132;500;632
-2015;7231;      Bernkastel-Wittlich, Landkreis;1350;651;699
-2015;7232;      Eifelkreis Bitburg-Prüm;1156;550;606
-2015;7233;      Vulkaneifel, Landkreis;823;382;441
-2015;7235;      Trier-Saarburg, Landkreis;1592;767;825
-2015;73;    Rheinhessen-Pfalz, Stat. Region;22624;10942;11682
-2015;7311;      Frankenthal (Pfalz), Kreisfreie Stadt;579;285;294
-2015;7312;      Kaiserslautern, Kreisfreie Stadt;1135;529;606
-2015;7313;      Landau in der Pfalz, Kreisfreie Stadt;494;213;281
-2015;7314;      Ludwigshafen am Rhein, Kreisfreie Stadt;1789;896;893
-2015;7315;      Mainz, Kreisfreie Stadt;1875;894;981
-2015;7316;      Neustadt an der Weinstraße, Kreisfreie Stadt;653;321;332
-2015;7317;      Pirmasens, Kreisfreie Stadt;634;283;351
-2015;7318;      Speyer, Kreisfreie Stadt;588;284;304
-2015;7319;      Worms, Kreisfreie Stadt;922;420;502
-2015;7320;      Zweibrücken, Kreisfreie Stadt;418;215;203
-2015;7331;      Alzey-Worms, Landkreis;1323;665;658
-2015;7332;      Bad Dürkheim, Landkreis;1649;787;862
-2015;7333;      Donnersbergkreis;965;448;517
-2015;7334;      Germersheim, Landkreis;1263;596;667
-2015;7335;      Kaiserslautern, Landkreis;1243;596;647
-2015;7336;      Kusel, Landkreis;961;509;452
-2015;7337;      Südliche Weinstraße, Landkreis;1233;613;620
-2015;7338;      Rhein-Pfalz-Kreis;1674;796;878
-2015;7339;      Mainz-Bingen, Landkreis;2057;1012;1045
-2015;7340;      Südwestpfalz, Landkreis;1169;580;589
-2015;8;  Baden-Württemberg;108066;51691;56375
-2015;81;    Stuttgart, Regierungsbezirk;39487;19202;20285
-2015;8111;      Stuttgart, Landeshauptstadt, Kreisfreie Stadt;5480;2623;2857
-2015;8115;      Böblingen, Landkreis;3468;1684;1784
-2015;8116;      Esslingen, Landkreis;4935;2402;2533
-2015;8117;      Göppingen, Landkreis;2630;1238;1392
-2015;8118;      Ludwigsburg, Landkreis;5074;2448;2626
-2015;8119;      Rems-Murr-Kreis;4134;2050;2084
-2015;8121;      Heilbronn, Kreisfreie Stadt;1298;642;656
-2015;8125;      Heilbronn, Landkreis;3318;1615;1703
-2015;8126;      Hohenlohekreis;1105;554;551
-2015;8127;      Schwäbisch Hall, Landkreis;1857;936;921
-2015;8128;      Main-Tauber-Kreis;1555;771;784
-2015;8135;      Heidenheim, Landkreis;1443;691;752
-2015;8136;      Ostalbkreis;3190;1548;1642
-2015;82;    Karlsruhe, Regierungsbezirk;28528;13447;15081
-2015;8211;      Baden-Baden, Kreisfreie Stadt;732;301;431
-2015;8212;      Karlsruhe, Kreisfreie Stadt;2957;1334;1623
-2015;8215;      Karlsruhe, Landkreis;4488;2132;2356
-2015;8216;      Rastatt, Landkreis;2417;1157;1260
-2015;8221;      Heidelberg, Kreisfreie Stadt;1240;533;707
-2015;8222;      Mannheim, Universitätsstadt, Kreisfreie Stadt;3199;1525;1674
-2015;8225;      Neckar-Odenwald-Kreis;1622;781;841
-2015;8226;      Rhein-Neckar-Kreis;5645;2739;2906
-2015;8231;      Pforzheim, Kreisfreie Stadt;1377;642;735
-2015;8235;      Calw, Landkreis;1595;753;842
-2015;8236;      Enzkreis;1966;959;1007
-2015;8237;      Freudenstadt, Landkreis;1290;591;699
-2015;83;    Freiburg, Regierungsbezirk;22478;10663;11815
-2015;8311;      Freiburg im Breisgau, Kreisfreie Stadt;1953;812;1141
-2015;8315;      Breisgau-Hochschwarzwald, Landkreis;2430;1113;1317
-2015;8316;      Emmendingen, Landkreis;1584;773;811
-2015;8317;      Ortenaukreis;4491;2114;2377
-2015;8325;      Rottweil, Landkreis;1496;720;776
-2015;8326;      Schwarzwald-Baar-Kreis;2325;1100;1225
-2015;8327;      Tuttlingen, Landkreis;1396;690;706
-2015;8335;      Konstanz, Landkreis;2792;1365;1427
-2015;8336;      Lörrach, Landkreis;2255;1094;1161
-2015;8337;      Waldshut, Landkreis;1756;882;874
-2015;84;    Tübingen, Regierungsbezirk;17573;8379;9194
-2015;8415;      Reutlingen, Landkreis;2818;1349;1469
-2015;8416;      Tübingen, Landkreis;1695;777;918
-2015;8417;      Zollernalbkreis;2047;962;1085
-2015;8421;      Ulm, Universitätsstadt, Kreisfreie Stadt;1209;568;641
-2015;8425;      Alb-Donau-Kreis;1807;855;952
-2015;8426;      Biberach, Landkreis;1873;902;971
-2015;8435;      Bodenseekreis;2081;1013;1068
-2015;8436;      Ravensburg, Landkreis;2753;1348;1405
-2015;8437;      Sigmaringen, Landkreis;1290;605;685
-2015;9;  Bayern;133536;64228;69308
-2015;91;    Oberbayern, Regierungsbezirk;41827;20020;21807
-2015;9161;      Ingolstadt;1220;598;622
-2015;9162;      München, Landeshauptstadt;11139;5355;5784
-2015;9163;      Rosenheim;578;277;301
-2015;9171;      Altötting, Landkreis;1298;617;681
-2015;9172;      Berchtesgadener Land, Landkreis;1218;571;647
-2015;9173;      Bad Tölz-Wolfratshausen, Landkreis;1276;601;675
-2015;9174;      Dachau, Landkreis;1286;615;671
-2015;9175;      Ebersberg, Landkreis;1210;602;608
-2015;9176;      Eichstätt, Landkreis;1187;610;577
-2015;9177;      Erding, Landkreis;1098;535;563
-2015;9178;      Freising, Landkreis;1388;647;741
-2015;9179;      Fürstenfeldbruck, Landkreis;1992;927;1065
-2015;9180;      Garmisch-Partenkirchen, Landkreis;1064;500;564
-2015;9181;      Landsberg am Lech, Landkreis;1069;509;560
-2015;9182;      Miesbach, Landkreis;1045;487;558
-2015;9183;      Mühldorf a.Inn, Landkreis;1333;662;671
-2015;9184;      München, Landkreis;3125;1452;1673
-2015;9185;      Neuburg-Schrobenhausen, Landkreis;958;463;495
-2015;9186;      Pfaffenhofen a.d.Ilm, Landkreis;1090;515;575
-2015;9187;      Rosenheim, Landkreis;2589;1244;1345
-2015;9188;      Starnberg, Landkreis;1260;614;646
-2015;9189;      Traunstein, Landkreis;2012;960;1052
-2015;9190;      Weilheim-Schongau, Landkreis;1392;659;733
-2015;92;    Niederbayern, Regierungsbezirk;13444;6489;6955
-2015;9261;      Landshut;816;357;459
-2015;9262;      Passau;619;259;360
-2015;9263;      Straubing;569;278;291
-2015;9271;      Deggendorf, Landkreis;1352;697;655
-2015;9272;      Freyung-Grafenau, Landkreis;951;435;516
-2015;9273;      Kelheim, Landkreis;1195;599;596
-2015;9274;      Landshut, Landkreis;1465;727;738
-2015;9275;      Passau, Landkreis;2134;1041;1093
-2015;9276;      Regen, Landkreis;993;497;496
-2015;9277;      Rottal-Inn, Landkreis;1432;664;768
-2015;9278;      Straubing-Bogen, Landkreis;960;460;500
-2015;9279;      Dingolfing-Landau, Landkreis;958;475;483
-2015;93;    Oberpfalz, Regierungsbezirk;12202;5997;6205
-2015;9361;      Amberg;563;268;295
-2015;9362;      Regensburg;1387;620;767
-2015;9363;      Weiden i.d.OPf.;535;253;282
-2015;9371;      Amberg-Sulzbach, Landkreis;1262;640;622
-2015;9372;      Cham, Landkreis;1461;708;753
-2015;9373;      Neumarkt i.d.OPf., Landkreis;1368;687;681
-2015;9374;      Neustadt a.d.Waldnaab, Landkreis;1148;601;547
-2015;9375;      Regensburg, Landkreis;1798;881;917
-2015;9376;      Schwandorf, Landkreis;1677;813;864
-2015;9377;      Tirschenreuth, Landkreis;1003;526;477
-2015;94;    Oberfranken, Regierungsbezirk;13350;6384;6966
-2015;9461;      Bamberg;876;388;488
-2015;9462;      Bayreuth;858;385;473
-2015;9463;      Coburg;565;273;292
-2015;9464;      Hof;605;283;322
-2015;9471;      Bamberg, Landkreis;1558;772;786
-2015;9472;      Bayreuth, Landkreis;1315;640;675
-2015;9473;      Coburg, Landkreis;1111;546;565
-2015;9474;      Forchheim, Landkreis;1165;596;569
-2015;9475;      Hof, Landkreis;1402;684;718
-2015;9476;      Kronach, Landkreis;918;435;483
-2015;9477;      Kulmbach, Landkreis;932;419;513
-2015;9478;      Lichtenfels, Landkreis;869;413;456
-2015;9479;      Wunsiedel i.Fichtelgebirge, Landkreis;1176;550;626
-2015;95;    Mittelfranken, Regierungsbezirk;19266;9236;10030
-2015;9561;      Ansbach;489;222;267
-2015;9562;      Erlangen;1108;522;586
-2015;9563;      Fürth;1235;603;632
-2015;9564;      Nürnberg;5780;2738;3042
-2015;9565;      Schwabach;496;221;275
-2015;9571;      Ansbach, Landkreis;2023;966;1057
-2015;9572;      Erlangen-Höchstadt, Landkreis;1333;663;670
-2015;9573;      Fürth, Landkreis;1292;609;683
-2015;9574;      Nürnberger Land, Landkreis;1943;930;1013
-2015;9575;      Neustadt a.d.Aisch-Bad Windsheim, Landkreis;1129;554;575
-2015;9576;      Roth, Landkreis;1338;664;674
-2015;9577;      Weißenburg-Gunzenhausen, Landkreis;1100;544;556
-2015;96;    Unterfranken, Regierungsbezirk;14575;7061;7514
-2015;9661;      Aschaffenburg;762;357;405
-2015;9662;      Schweinfurt;754;358;396
-2015;9663;      Würzburg;1378;608;770
-2015;9671;      Aschaffenburg, Landkreis;1787;901;886
-2015;9672;      Bad Kissingen, Landkreis;1383;650;733
-2015;9673;      Rhön-Grabfeld, Landkreis;1017;506;511
-2015;9674;      Haßberge, Landkreis;898;453;445
-2015;9675;      Kitzingen, Landkreis;1020;483;537
-2015;9676;      Miltenberg, Landkreis;1373;692;681
-2015;9677;      Main-Spessart, Landkreis;1509;739;770
-2015;9678;      Schweinfurt, Landkreis;1222;580;642
-2015;9679;      Würzburg, Landkreis;1472;734;738
-2015;97;    Schwaben, Regierungsbezirk;18872;9041;9831
-2015;9761;      Augsburg;3054;1431;1623
-2015;9762;      Kaufbeuren;481;213;268
-2015;9763;      Kempten (Allgäu);731;346;385
-2015;9764;      Memmingen;482;210;272
-2015;9771;      Aichach-Friedberg, Landkreis;1230;581;649
-2015;9772;      Augsburg, Landkreis;2498;1235;1263
-2015;9773;      Dillingen a.d.Donau, Landkreis;917;441;476
-2015;9774;      Günzburg, Landkreis;1222;556;666
-2015;9775;      Neu-Ulm, Landkreis;1589;779;810
-2015;9776;      Lindau (Bodensee), Landkreis;942;458;484
-2015;9777;      Ostallgäu, Landkreis;1364;683;681
-2015;9778;      Unterallgäu, Landkreis;1531;732;799
-2015;9779;      Donau-Ries, Landkreis;1263;640;623
-2015;9780;      Oberallgäu, Landkreis;1568;736;832
-2015;10;  Saarland;13427;6505;6922
-2015;10041;      Saarbrücken, Regionalverband;4480;2140;2340
-2015;10041100;      Saarbrücken, Landeshauptstadt;2225;1063;1162
-2015;10042;      Merzig-Wadern, Landkreis;1385;661;724
-2015;10043;      Neunkirchen, Landkreis;1915;975;940
-2015;10044;      Saarlouis, Landkreis;2592;1270;1322
-2015;10045;      Saarpfalz-Kreis;1906;918;988
-2015;10046;      St. Wendel, Landkreis;1149;541;608
-2015;11;  Berlin;34278;16917;17361
-2015;12;  Brandenburg;30750;15516;15234
-2015;12051;      Brandenburg an der Havel, Kreisfreie Stadt;984;517;467
-2015;12052;      Cottbus, Kreisfreie Stadt;1301;631;670
-2015;12053;      Frankfurt (Oder), Kreisfreie Stadt;750;361;389
-2015;12054;      Potsdam, Kreisfreie Stadt;1618;803;815
-2015;12060;      Barnim, Landkreis;2110;1071;1039
-2015;12061;      Dahme-Spreewald, Landkreis;1927;995;932
-2015;12062;      Elbe-Elster, Landkreis;1538;796;742
-2015;12063;      Havelland, Landkreis;1792;876;916
-2015;12064;      Märkisch-Oderland, Landkreis;2294;1180;1114
-2015;12065;      Oberhavel, Landkreis;2405;1208;1197
-2015;12066;      Oberspreewald-Lausitz, Landkreis;1618;831;787
-2015;12067;      Oder-Spree, Landkreis;2260;1171;1089
-2015;12068;      Ostprignitz-Ruppin, Landkreis;1326;656;670
-2015;12069;      Potsdam-Mittelmark, Landkreis;2208;1095;1113
-2015;12070;      Prignitz, Landkreis;1210;591;619
-2015;12071;      Spree-Neiße, Landkreis;1687;849;838
-2015;12072;      Teltow-Fläming, Landkreis;2025;1011;1014
-2015;12073;      Uckermark, Landkreis;1697;874;823
-2015;13;  Mecklenburg-Vorpommern;20315;10418;9897
-2015;13001;      Kreisfreie Stadt Greifswald, Hansestadt;-;-;-
-2015;13002;      Kreisfreie Stadt Neubrandenburg, Stadt;-;-;-
-2015;13003;      Kreisfreie Stadt Rostock, Hansestadt;2310;1167;1143
-2015;13004;      Kreisfreie Stadt Schwerin, Landeshauptstadt;1201;596;605
-2015;13005;      Kreisfreie Stadt Stralsund, Hansestadt;-;-;-
-2015;13006;      Kreisfreie Stadt Wismar, Hansestadt;-;-;-
-2015;13051;      Landkreis Bad Doberan;-;-;-
-2015;13052;      Landkreis Demmin;-;-;-
-2015;13053;      Landkreis Güstrow;-;-;-
-2015;13054;      Landkreis Ludwigslust;-;-;-
-2015;13055;      Landkreis Mecklenburg-Strelitz;-;-;-
-2015;13056;      Landkreis Müritz;-;-;-
-2015;13057;      Landkreis Nordvorpommern;-;-;-
-2015;13058;      Landkreis Nordwestmecklenburg;-;-;-
-2015;13059;      Landkreis Ostvorpommern;-;-;-
-2015;13060;      Landkreis Parchim;-;-;-
-2015;13061;      Landkreis Rügen;-;-;-
-2015;13062;      Landkreis Uecker-Randow;-;-;-
-2015;13071;      Landkreis Mecklenburgische Seenplatte;3498;1799;1699
-2015;13072;      Landkreis Rostock;2642;1392;1250
-2015;13073;      Landkreis Vorpommern-Rügen;2918;1517;1401
-2015;13074;      Landkreis Nordwestmecklenburg;1819;955;864
-2015;13075;      Landkreis Vorpommern-Greifswald;3225;1647;1578
-2015;13076;      Landkreis Ludwigslust-Parchim;2702;1345;1357
-2015;14;  Sachsen;54467;26283;28184
-2015;141;    Chemnitz, Regierungsbezirk;-;-;-
-2015;14161;      Chemnitz, Kreisfreie Stadt;-;-;-
-2015;14166;      Plauen, Kreisfreie Stadt;-;-;-
-2015;14167;      Zwickau, Kreisfreie Stadt;-;-;-
-2015;14171;      Annaberg, Landkreis;-;-;-
-2015;14173;      Chemnitzer Land, Landkreis;-;-;-
-2015;14177;      Freiberg, Landkreis;-;-;-
-2015;14178;      Vogtlandkreis;-;-;-
-2015;14181;      Mittlerer Erzgebirgskreis;-;-;-
-2015;14182;      Mittweida, Landkreis;-;-;-
-2015;14188;      Stollberg, Landkreis;-;-;-
-2015;14191;      Aue-Schwarzenberg, Landkreis;-;-;-
-2015;14193;      Zwickauer Land, Landkreis;-;-;-
-2015;142;    Dresden, Regierungsbezirk;-;-;-
-2015;14262;      Dresden, Kreisfreie Stadt;-;-;-
-2015;14263;      Görlitz, Kreisfreie Stadt;-;-;-
-2015;14264;      Hoyerswerda, Kreisfreie Stadt;-;-;-
-2015;14272;      Bautzen, Landkreis;-;-;-
-2015;14280;      Meißen, Landkreis;-;-;-
-2015;14284;      Niederschlesischer Oberlausitzkreis;-;-;-
-2015;14285;      Riesa-Großenhain, Landkreis;-;-;-
-2015;14286;      Löbau-Zittau, Landkreis;-;-;-
-2015;14287;      Sächsische Schweiz, Landkreis;-;-;-
-2015;14290;      Weißeritzkreis;-;-;-
-2015;14292;      Kamenz, Landkreis;-;-;-
-2015;143;    Leipzig, Regierungsbezirk;-;-;-
-2015;14365;      Leipzig, Kreisfreie Stadt;-;-;-
-2015;14374;      Delitzsch, Landkreis;-;-;-
-2015;14375;      Döbeln, Landkreis;-;-;-
-2015;14379;      Leipziger Land, Landkreis;-;-;-
-2015;14383;      Muldentalkreis;-;-;-
-2015;14389;      Torgau-Oschatz, Landkreis;-;-;-
-2015;145;    Chemnitz, NUTS 2-Region;21802;10408;11394
-2015;14511;      Chemnitz, Stadt;3392;1599;1793
-2015;14521;      Erzgebirgskreis;5092;2469;2623
-2015;14522;      Mittelsachsen, Landkreis;4496;2224;2272
-2015;14523;      Vogtlandkreis;3643;1738;1905
-2015;14524;      Zwickau, Landkreis;5179;2378;2801
-2015;146;    Dresden, NUTS 2-Region;20408;9942;10466
-2015;14612;      Dresden, Stadt;5484;2662;2822
-2015;14625;      Bautzen, Landkreis;4158;2049;2109
-2015;14626;      Görlitz, Landkreis;4064;2009;2055
-2015;14627;      Meißen, Landkreis;3220;1538;1682
-2015;14628;      Sächsische Schweiz-Osterzgebirge, Landkreis;3482;1684;1798
-2015;147;    Leipzig, NUTS 2-Region;12257;5933;6324
-2015;14713;      Leipzig, Stadt;6136;2978;3158
-2015;14729;      Leipzig, Landkreis;3475;1675;1800
-2015;14730;      Nordsachsen, Landkreis;2646;1280;1366
-2015;15;  Sachsen-Anhalt;32369;16024;16345
-2015;15001;      Dessau-Roßlau, Kreisfreie Stadt;1287;617;670
-2015;15002;      Halle (Saale), Kreisfreie Stadt;3092;1517;1575
-2015;15003;      Magdeburg, Kreisfreie Stadt;2919;1421;1498
-2015;15081;      Altmarkkreis Salzwedel;1150;590;560
-2015;15082;      Anhalt-Bitterfeld, Landkreis;2548;1217;1331
-2015;15083;      Börde, Landkreis;2291;1186;1105
-2015;15084;      Burgenlandkreis;2815;1403;1412
-2015;15085;      Harz, Landkreis;3474;1643;1831
-2015;15086;      Jerichower Land, Landkreis;1306;656;650
-2015;15087;      Mansfeld-Südharz, Landkreis;2184;1139;1045
-2015;15088;      Saalekreis;2521;1257;1264
-2015;15089;      Salzlandkreis;3157;1535;1622
-2015;15090;      Stendal, Landkreis;1673;854;819
-2015;15091;      Wittenberg, Landkreis;1952;989;963
-2015;151;    Dessau, Stat. Region;-;-;-
-2015;15101;      Dessau, Kreisfreie Stadt;-;-;-
-2015;15151;      Anhalt-Zerbst, Kreis;-;-;-
-2015;15153;      Bernburg, Kreis;-;-;-
-2015;15154;      Bitterfeld, Kreis;-;-;-
-2015;15159;      Köthen, Kreis;-;-;-
-2015;15171;      Wittenberg, Kreis;-;-;-
-2015;152;    Halle, Stat. Region;-;-;-
-2015;15202;      Halle (Saale), Kreisfreie Stadt;-;-;-
-2015;15256;      Burgenlandkreis;-;-;-
-2015;15260;      Mansfelder Land, Kreis;-;-;-
-2015;15261;      Merseburg-Querfurt, Kreis;-;-;-
-2015;15265;      Saalkreis;-;-;-
-2015;15266;      Sangerhausen, Kreis;-;-;-
-2015;15268;      Weißenfels, Kreis;-;-;-
-2015;153;    Magdeburg, Stat. Region;-;-;-
-2015;15303;      Magdeburg, Kreisfreie Stadt;-;-;-
-2015;15352;      Aschersleben-Staßfurt, Kreis;-;-;-
-2015;15355;      Bördekreis;-;-;-
-2015;15357;      Halberstadt, Kreis;-;-;-
-2015;15358;      Jerichower Land, Kreis;-;-;-
-2015;15362;      Ohrekreis;-;-;-
-2015;15363;      Stendal, Kreis;-;-;-
-2015;15364;      Quedlinburg, Kreis;-;-;-
-2015;15367;      Schönebeck, Kreis;-;-;-
-2015;15369;      Wernigerode, Kreis;-;-;-
-2015;15370;      Altmarkkreis Salzwedel, Kreis;-;-;-
-2015;16;  Thüringen;28830;14177;14653
-2015;16051;      Erfurt, krsfr. Stadt;2272;1092;1180
-2015;16052;      Gera, krsfr. Stadt;1383;685;698
-2015;16053;      Jena, krsfr. Stadt;1041;506;535
-2015;16054;      Suhl, krsfr. Stadt;525;272;253
-2015;16055;      Weimar, krsfr. Stadt;837;392;445
-2015;16056;      Eisenach, krsfr. Stadt;612;275;337
-2015;16061;      Eichsfeld, Kreis;1095;565;530
-2015;16062;      Nordhausen, Kreis;1170;561;609
-2015;16063;      Wartburgkreis;1679;834;845
-2015;16064;      Unstrut-Hainich-Kreis;1461;686;775
-2015;16065;      Kyffhäuserkreis;1189;592;597
-2015;16066;      Schmalkalden-Meiningen, Kreis;1848;880;968
-2015;16067;      Gotha, Kreis;1793;889;904
-2015;16068;      Sömmerda, Kreis;964;501;463
-2015;16069;      Hildburghausen, Kreis;888;431;457
-2015;16070;      Ilm-Kreis;1457;706;751
-2015;16071;      Weimarer Land, Kreis;1018;482;536
-2015;16072;      Sonneberg, Kreis;907;468;439
-2015;16073;      Saalfeld-Rudolstadt, Kreis;1659;810;849
-2015;16074;      Saale-Holzland-Kreis;1003;543;460
-2015;16075;      Saale-Orla-Kreis;1152;579;573
-2015;16076;      Greiz, Kreis;1510;761;749
-2015;16077;      Altenburger Land, Kreis;1367;667;700
-__________;;;;;
-"zu ""gesamte Tabelle"":Baden-Württemberg (Berichtsjahr 1995-2010): Gebietsstand01.01.1979Baden-Württemberg (ab Berichtsjahr 2011): Gebietsstand01.01.2011Berlin (1995 bis 2000): bezogen auf den Gebietsstand01.01.2001Schleswig-Holstein (2002, 2003): aus programmtechnischenGründen gibt es Abweichungen zu anderen VeröffentlichungenRheinland-Pfalz (2012): Eventuelle Abweichungen zu anderenVeröffentlichungen ergeben sich durch nachträglicheKorrekturen; diese sind auch nicht in das Bundesergebniseingeflossen.";;;;;
-"© Dieses Angebot der Statistischen Ämter des Bundes und derLänder ist lizensiert unter der Datenlizenz Deutschland -Namensnennung - Version 2.0. Düsseldorf, 2017.";;;;;
-Stand: 28.02.2017 / 12:24:53;;;;;
+ÔªøIndex,Name,Total,Male,FemaleDG,Deutschland,925200,449512,4756881,  Schleswig-Holstein,33663,16587,170761001,"      Flensburg, Kreisfreie Stadt",1064,508,5561002,"      Kiel, Landeshauptstadt, Kreisfreie Stadt",2443,1189,12541003,"      L√ºbeck, Hansestadt, Kreisfreie Stadt",2860,1416,14441004,"      Neum√ºnster, Kreisfreie Stadt",1014,519,4951051,"      Dithmarschen, Landkreis",1845,934,9111053,"      Herzogtum Lauenburg, Landkreis",2264,1094,11701054,"      Nordfriesland, Landkreis",1985,1011,9741055,"      Ostholstein, Landkreis",2760,1352,14081056,"      Pinneberg, Landkreis",3407,1695,17121057,"      Pl√∂n, Landkreis",1541,759,7821058,"      Rendsburg-Eckernf√∂rde, Landkreis",3027,1503,15241059,"      Schleswig-Flensburg, Landkreis",2387,1163,12241060,"      Segeberg, Landkreis",2831,1389,14421061,"      Steinburg, Landkreis",1611,835,7761062,"      Stormarn, Landkreis",2624,1220,14042,  Hamburg,17565,8321,92443,  Niedersachsen,92460,45146,4731431,"    Braunschweig, Stat. Region",19815,9684,101313101,"      Braunschweig, Kreisfreie Stadt",2838,1363,14753102,"      Salzgitter, Kreisfreie Stadt",1390,694,6963103,"      Wolfsburg, Kreisfreie Stadt",1480,743,7373151,"      Gifhorn, Landkreis",1719,906,8133152,"      G√∂ttingen, Landkreis",2743,1328,14153153,"      Goslar, Landkreis",2070,978,10923154,"      Helmstedt, Landkreis",1347,692,6553155,"      Northeim, Landkreis",1869,914,9553156,"      Osterode am Harz, Landkreis",1274,604,6703157,"      Peine, Landkreis",1593,743,8503158,"      Wolfenb√ºttel, Landkreis",1492,719,77332,"    Hannover, Stat. Region",25950,12583,133673241,"      Region Hannover, Landkreis",12781,6145,66363241001,"      Hannover, Landeshauptstadt",5621,2683,29383251,"      Diepholz, Landkreis",2528,1300,12283252,"      Hameln-Pyrmont, Landkreis",2148,1003,11453254,"      Hildesheim, Landkreis",3608,1722,18863255,"      Holzminden, Landkreis",1021,511,5103256,"      Nienburg (Weser), Landkreis",1583,803,7803257,"      Schaumburg, Landkreis",2281,1099,118233,"    L√ºneburg, Stat. Region",19641,9683,99583351,"      Celle, Landkreis",2177,1069,11083352,"      Cuxhaven, Landkreis",2619,1285,13343353,"      Harburg, Landkreis",2579,1284,12953354,"      L√ºchow-Dannenberg, Landkreis",724,342,3823355,"      L√ºneburg, Landkreis",1890,926,9643356,"      Osterholz, Landkreis",1259,622,6373357,"      Rotenburg (W√ºmme), Landkreis",1783,918,8653358,"      Heidekreis, Landkreis",1656,838,8183359,"      Stade, Landkreis",2107,1044,10633360,"      Uelzen, Landkreis",1375,675,7003361,"      Verden, Landkreis",1472,680,79234,"    Weser-Ems, Stat. Region",27054,13196,138583401,"      Delmenhorst, Kreisfreie Stadt",847,427,4203402,"      Emden, Kreisfreie Stadt",633,304,3293403,"      Oldenburg (Oldenburg), Kreisfreie Stadt",1661,761,9003404,"      Osnabr√ºck, Kreisfreie Stadt",1616,749,8673405,"      Wilhelmshaven, Kreisfreie Stadt",1105,517,5883451,"      Ammerland, Landkreis",1329,650,6793452,"      Aurich, Landkreis",2397,1220,11773453,"      Cloppenburg, Landkreis",1505,770,7353454,"      Emsland, Landkreis",3260,1636,16243455,"      Friesland, Landkreis",1235,579,6563456,"      Grafschaft Bentheim, Landkreis",1412,674,7383457,"      Leer, Landkreis",1947,959,9883458,"      Oldenburg, Landkreis",1394,690,7043459,"      Osnabr√ºck, Landkreis",3739,1824,19153460,"      Vechta, Landkreis",1130,537,5933461,"      Wesermarsch, Landkreis",1144,557,5873462,"      Wittmund, Landkreis",700,342,3584,  Bremen,7811,3839,39724011,"      Bremen, Kreisfreie Stadt",6316,3076,32404012,"      Bremerhaven, Kreisfreie Stadt",1495,763,7325,  Nordrhein-Westfalen,204352,98881,10547151,"    D√ºsseldorf, Regierungsbezirk",61986,29936,320505111,"      D√ºsseldorf, Kreisfreie Stadt",6327,2959,33685112,"      Duisburg, Kreisfreie Stadt",6317,3140,31775113,"      Essen, Kreisfreie Stadt",7457,3546,39115114,"      Krefeld, Kreisfreie Stadt",2745,1291,14545116,"      M√∂nchengladbach, Kreisfreie Stadt",3166,1520,16465117,"      M√ºlheim an der Ruhr, Kreisfreie Stadt",2224,1056,11685119,"      Oberhausen, Kreisfreie Stadt",2773,1353,14205120,"      Remscheid, Kreisfreie Stadt",1453,708,7455122,"      Solingen, Kreisfreie Stadt",2033,927,11065124,"      Wuppertal, Kreisfreie Stadt",4175,2058,21175154,"      Kleve, Kreis",3519,1742,17775158,"      Mettmann, Kreis",5952,2835,31175162,      Rhein-Kreis Neuss,4970,2506,24645166,"      Viersen, Kreis",3377,1563,18145170,"      Wesel, Kreis",5498,2732,276653,"    K√∂ln, Regierungsbezirk",46402,22473,239295314,"      Bonn, Kreisfreie Stadt",2932,1417,15155315,"      K√∂ln, Kreisfreie Stadt",9890,4833,50575316,"      Leverkusen, Kreisfreie Stadt",1904,933,9715334,      St√§dteregion Aachen (einschl. Stadt Aachen),5980,2833,31475334002,"      Aachen, krfr. Stadt",2373,1129,12445354,"      Aachen, Kreis",-,-,-5358,"      D√ºren, Kreis",3168,1515,16535362,      Rhein-Erft-Kreis,4914,2427,24875366,"      Euskirchen, Kreis",2317,1149,11685370,"      Heinsberg, Kreis",2870,1385,14855374,      Oberbergischer Kreis,3244,1511,17335378,      Rheinisch-Bergischer Kreis,3133,1550,15835382,      Rhein-Sieg-Kreis,6050,2920,313055,"    M√ºnster, Regierungsbezirk",28536,13939,145975512,"      Bottrop, Kreisfreie Stadt",1508,694,8145513,"      Gelsenkirchen, Kreisfreie Stadt",3448,1733,17155515,"      M√ºnster, Kreisfreie Stadt",2642,1232,14105554,"      Borken, Kreis",3681,1792,18895558,"      Coesfeld, Kreis",2187,1007,11805562,"      Recklinghausen, Kreis",7816,3842,39745566,"      Steinfurt, Kreis",4509,2263,22465570,"      Warendorf, Kreis",2745,1376,136957,"    Detmold, Regierungsbezirk",22568,10851,117175711,"      Bielefeld, Kreisfreie Stadt",3571,1727,18445754,"      G√ºtersloh, Kreis",3488,1693,17955758,"      Herford, Kreis",3004,1380,16245762,"      H√∂xter, Kreis",1710,843,8675766,"      Lippe, Kreis",4330,2072,22585770,"      Minden-L√ºbbecke, Kreis",3651,1755,18965774,"      Paderborn, Kreis",2814,1381,143359,"    Arnsberg, Regierungsbezirk",44860,21682,231785911,"      Bochum, Kreisfreie Stadt",4641,2262,23795913,"      Dortmund, Kreisfreie Stadt",7204,3503,37015914,"      Hagen, Kreisfreie Stadt",2549,1231,13185915,"      Hamm, Kreisfreie Stadt",2129,1043,10865916,"      Herne, Kreisfreie Stadt",2126,1020,11065954,      Ennepe-Ruhr-Kreis,4405,2118,22875958,      Hochsauerlandkreis,3319,1612,17075962,      M√§rkischer Kreis,5062,2454,26085966,"      Olpe, Kreis",1497,692,8055970,"      Siegen-Wittgenstein, Kreis",3262,1591,16715974,"      Soest, Kreis",3604,1714,18905978,"      Unna, Kreis",5062,2442,26206,  Hessen,66534,32407,3412764,"    Darmstadt, Regierungsbezirk",39631,19311,203206411,"      Darmstadt, Kreisfreie Stadt",1542,715,8276412,"      Frankfurt am Main, Kreisfreie Stadt",6171,3048,31236413,"      Offenbach am Main, Kreisfreie Stadt",1133,571,5626414,"      Wiesbaden, Landeshauptstadt, Kreisfreie Stadt",2893,1367,15266431,"      Bergstra√üe, Landkreis",3090,1500,15906432,"      Darmstadt-Dieburg, Landkreis",2947,1452,14956433,"      Gro√ü-Gerau, Landkreis",2604,1293,13116434,      Hochtaunuskreis,2444,1164,12806435,      Main-Kinzig-Kreis,4443,2167,22766436,      Main-Taunus-Kreis,2333,1117,12166437,      Odenwaldkreis,1191,586,6056438,"      Offenbach, Landkreis",3556,1755,18016439,      Rheingau-Taunus-Kreis,1976,953,10236440,      Wetteraukreis,3308,1623,168565,"    Gie√üen, Regierungsbezirk",11859,5840,60196531,"      Gie√üen, Landkreis",2780,1391,13896532,      Lahn-Dill-Kreis,3081,1440,16416533,"      Limburg-Weilburg, Landkreis",2007,977,10306534,"      Marburg-Biedenkopf, Landkreis",2563,1290,12736535,      Vogelsbergkreis,1428,742,68666,"    Kassel, Regierungsbezirk",15044,7256,77886611,"      Kassel, Kreisfreie Stadt",2178,1029,11496631,"      Fulda, Landkreis",2394,1138,12566632,"      Hersfeld-Rotenburg, Landkreis",1640,790,8506633,"      Kassel, Landkreis",2922,1399,15236634,      Schwalm-Eder-Kreis,2322,1174,11486635,"      Waldeck-Frankenberg, Landkreis",2087,1015,10726636,      Werra-Mei√üner-Kreis,1501,711,7907,  Rheinland-Pfalz,46777,22572,2420571,"    Koblenz, Stat. Region",18100,8780,93207111,"      Koblenz, Kreisfreie Stadt",1318,631,6877131,"      Ahrweiler, Landkreis",1605,778,8277132,"      Altenkirchen (Westerwald), Landkreis",1600,747,8537133,"      Bad Kreuznach, Landkreis",1932,920,10127134,"      Birkenfeld, Landkreis",1200,569,6317135,"      Cochem-Zell, Landkreis",842,418,4247137,"      Mayen-Koblenz, Landkreis",2301,1140,11617138,"      Neuwied, Landkreis",2158,1057,11017140,      Rhein-Hunsr√ºck-Kreis,1283,634,6497141,      Rhein-Lahn-Kreis,1550,735,8157143,      Westerwaldkreis,2311,1151,116072,"    Trier, Stat. Region",6053,2850,32037211,"      Trier, Kreisfreie Stadt",1132,500,6327231,"      Bernkastel-Wittlich, Landkreis",1350,651,6997232,      Eifelkreis Bitburg-Pr√ºm,1156,550,6067233,"      Vulkaneifel, Landkreis",823,382,4417235,"      Trier-Saarburg, Landkreis",1592,767,82573,"    Rheinhessen-Pfalz, Stat. Region",22624,10942,116827311,"      Frankenthal (Pfalz), Kreisfreie Stadt",579,285,2947312,"      Kaiserslautern, Kreisfreie Stadt",1135,529,6067313,"      Landau in der Pfalz, Kreisfreie Stadt",494,213,2817314,"      Ludwigshafen am Rhein, Kreisfreie Stadt",1789,896,8937315,"      Mainz, Kreisfreie Stadt",1875,894,9817316,"      Neustadt an der Weinstra√üe, Kreisfreie Stadt",653,321,3327317,"      Pirmasens, Kreisfreie Stadt",634,283,3517318,"      Speyer, Kreisfreie Stadt",588,284,3047319,"      Worms, Kreisfreie Stadt",922,420,5027320,"      Zweibr√ºcken, Kreisfreie Stadt",418,215,2037331,"      Alzey-Worms, Landkreis",1323,665,6587332,"      Bad D√ºrkheim, Landkreis",1649,787,8627333,      Donnersbergkreis,965,448,5177334,"      Germersheim, Landkreis",1263,596,6677335,"      Kaiserslautern, Landkreis",1243,596,6477336,"      Kusel, Landkreis",961,509,4527337,"      S√ºdliche Weinstra√üe, Landkreis",1233,613,6207338,      Rhein-Pfalz-Kreis,1674,796,8787339,"      Mainz-Bingen, Landkreis",2057,1012,10457340,"      S√ºdwestpfalz, Landkreis",1169,580,5898,  Baden-W√ºrttemberg,108066,51691,5637581,"    Stuttgart, Regierungsbezirk",39487,19202,202858111,"      Stuttgart, Landeshauptstadt, Kreisfreie Stadt",5480,2623,28578115,"      B√∂blingen, Landkreis",3468,1684,17848116,"      Esslingen, Landkreis",4935,2402,25338117,"      G√∂ppingen, Landkreis",2630,1238,13928118,"      Ludwigsburg, Landkreis",5074,2448,26268119,      Rems-Murr-Kreis,4134,2050,20848121,"      Heilbronn, Kreisfreie Stadt",1298,642,6568125,"      Heilbronn, Landkreis",3318,1615,17038126,      Hohenlohekreis,1105,554,5518127,"      Schw√§bisch Hall, Landkreis",1857,936,9218128,      Main-Tauber-Kreis,1555,771,7848135,"      Heidenheim, Landkreis",1443,691,7528136,      Ostalbkreis,3190,1548,164282,"    Karlsruhe, Regierungsbezirk",28528,13447,150818211,"      Baden-Baden, Kreisfreie Stadt",732,301,4318212,"      Karlsruhe, Kreisfreie Stadt",2957,1334,16238215,"      Karlsruhe, Landkreis",4488,2132,23568216,"      Rastatt, Landkreis",2417,1157,12608221,"      Heidelberg, Kreisfreie Stadt",1240,533,7078222,"      Mannheim, Universit√§tsstadt, Kreisfreie Stadt",3199,1525,16748225,      Neckar-Odenwald-Kreis,1622,781,8418226,      Rhein-Neckar-Kreis,5645,2739,29068231,"      Pforzheim, Kreisfreie Stadt",1377,642,7358235,"      Calw, Landkreis",1595,753,8428236,      Enzkreis,1966,959,10078237,"      Freudenstadt, Landkreis",1290,591,69983,"    Freiburg, Regierungsbezirk",22478,10663,118158311,"      Freiburg im Breisgau, Kreisfreie Stadt",1953,812,11418315,"      Breisgau-Hochschwarzwald, Landkreis",2430,1113,13178316,"      Emmendingen, Landkreis",1584,773,8118317,      Ortenaukreis,4491,2114,23778325,"      Rottweil, Landkreis",1496,720,7768326,      Schwarzwald-Baar-Kreis,2325,1100,12258327,"      Tuttlingen, Landkreis",1396,690,7068335,"      Konstanz, Landkreis",2792,1365,14278336,"      L√∂rrach, Landkreis",2255,1094,11618337,"      Waldshut, Landkreis",1756,882,87484,"    T√ºbingen, Regierungsbezirk",17573,8379,91948415,"      Reutlingen, Landkreis",2818,1349,14698416,"      T√ºbingen, Landkreis",1695,777,9188417,      Zollernalbkreis,2047,962,10858421,"      Ulm, Universit√§tsstadt, Kreisfreie Stadt",1209,568,6418425,      Alb-Donau-Kreis,1807,855,9528426,"      Biberach, Landkreis",1873,902,9718435,      Bodenseekreis,2081,1013,10688436,"      Ravensburg, Landkreis",2753,1348,14058437,"      Sigmaringen, Landkreis",1290,605,6859,  Bayern,133536,64228,6930891,"    Oberbayern, Regierungsbezirk",41827,20020,218079161,      Ingolstadt,1220,598,6229162,"      M√ºnchen, Landeshauptstadt",11139,5355,57849163,      Rosenheim,578,277,3019171,"      Alt√∂tting, Landkreis",1298,617,6819172,"      Berchtesgadener Land, Landkreis",1218,571,6479173,"      Bad T√∂lz-Wolfratshausen, Landkreis",1276,601,6759174,"      Dachau, Landkreis",1286,615,6719175,"      Ebersberg, Landkreis",1210,602,6089176,"      Eichst√§tt, Landkreis",1187,610,5779177,"      Erding, Landkreis",1098,535,5639178,"      Freising, Landkreis",1388,647,7419179,"      F√ºrstenfeldbruck, Landkreis",1992,927,10659180,"      Garmisch-Partenkirchen, Landkreis",1064,500,5649181,"      Landsberg am Lech, Landkreis",1069,509,5609182,"      Miesbach, Landkreis",1045,487,5589183,"      M√ºhldorf a.Inn, Landkreis",1333,662,6719184,"      M√ºnchen, Landkreis",3125,1452,16739185,"      Neuburg-Schrobenhausen, Landkreis",958,463,4959186,"      Pfaffenhofen a.d.Ilm, Landkreis",1090,515,5759187,"      Rosenheim, Landkreis",2589,1244,13459188,"      Starnberg, Landkreis",1260,614,6469189,"      Traunstein, Landkreis",2012,960,10529190,"      Weilheim-Schongau, Landkreis",1392,659,73392,"    Niederbayern, Regierungsbezirk",13444,6489,69559261,      Landshut,816,357,4599262,      Passau,619,259,3609263,      Straubing,569,278,2919271,"      Deggendorf, Landkreis",1352,697,6559272,"      Freyung-Grafenau, Landkreis",951,435,5169273,"      Kelheim, Landkreis",1195,599,5969274,"      Landshut, Landkreis",1465,727,7389275,"      Passau, Landkreis",2134,1041,10939276,"      Regen, Landkreis",993,497,4969277,"      Rottal-Inn, Landkreis",1432,664,7689278,"      Straubing-Bogen, Landkreis",960,460,5009279,"      Dingolfing-Landau, Landkreis",958,475,48393,"    Oberpfalz, Regierungsbezirk",12202,5997,62059361,      Amberg,563,268,2959362,      Regensburg,1387,620,7679363,      Weiden i.d.OPf.,535,253,2829371,"      Amberg-Sulzbach, Landkreis",1262,640,6229372,"      Cham, Landkreis",1461,708,7539373,"      Neumarkt i.d.OPf., Landkreis",1368,687,6819374,"      Neustadt a.d.Waldnaab, Landkreis",1148,601,5479375,"      Regensburg, Landkreis",1798,881,9179376,"      Schwandorf, Landkreis",1677,813,8649377,"      Tirschenreuth, Landkreis",1003,526,47794,"    Oberfranken, Regierungsbezirk",13350,6384,69669461,      Bamberg,876,388,4889462,      Bayreuth,858,385,4739463,      Coburg,565,273,2929464,      Hof,605,283,3229471,"      Bamberg, Landkreis",1558,772,7869472,"      Bayreuth, Landkreis",1315,640,6759473,"      Coburg, Landkreis",1111,546,5659474,"      Forchheim, Landkreis",1165,596,5699475,"      Hof, Landkreis",1402,684,7189476,"      Kronach, Landkreis",918,435,4839477,"      Kulmbach, Landkreis",932,419,5139478,"      Lichtenfels, Landkreis",869,413,4569479,"      Wunsiedel i.Fichtelgebirge, Landkreis",1176,550,62695,"    Mittelfranken, Regierungsbezirk",19266,9236,100309561,      Ansbach,489,222,2679562,      Erlangen,1108,522,5869563,      F√ºrth,1235,603,6329564,      N√ºrnberg,5780,2738,30429565,      Schwabach,496,221,2759571,"      Ansbach, Landkreis",2023,966,10579572,"      Erlangen-H√∂chstadt, Landkreis",1333,663,6709573,"      F√ºrth, Landkreis",1292,609,6839574,"      N√ºrnberger Land, Landkreis",1943,930,10139575,"      Neustadt a.d.Aisch-Bad Windsheim, Landkreis",1129,554,5759576,"      Roth, Landkreis",1338,664,6749577,"      Wei√üenburg-Gunzenhausen, Landkreis",1100,544,55696,"    Unterfranken, Regierungsbezirk",14575,7061,75149661,      Aschaffenburg,762,357,4059662,      Schweinfurt,754,358,3969663,      W√ºrzburg,1378,608,7709671,"      Aschaffenburg, Landkreis",1787,901,8869672,"      Bad Kissingen, Landkreis",1383,650,7339673,"      Rh√∂n-Grabfeld, Landkreis",1017,506,5119674,"      Ha√überge, Landkreis",898,453,4459675,"      Kitzingen, Landkreis",1020,483,5379676,"      Miltenberg, Landkreis",1373,692,6819677,"      Main-Spessart, Landkreis",1509,739,7709678,"      Schweinfurt, Landkreis",1222,580,6429679,"      W√ºrzburg, Landkreis",1472,734,73897,"    Schwaben, Regierungsbezirk",18872,9041,98319761,      Augsburg,3054,1431,16239762,      Kaufbeuren,481,213,2689763,      Kempten (Allg√§u),731,346,3859764,      Memmingen,482,210,2729771,"      Aichach-Friedberg, Landkreis",1230,581,6499772,"      Augsburg, Landkreis",2498,1235,12639773,"      Dillingen a.d.Donau, Landkreis",917,441,4769774,"      G√ºnzburg, Landkreis",1222,556,6669775,"      Neu-Ulm, Landkreis",1589,779,8109776,"      Lindau (Bodensee), Landkreis",942,458,4849777,"      Ostallg√§u, Landkreis",1364,683,6819778,"      Unterallg√§u, Landkreis",1531,732,7999779,"      Donau-Ries, Landkreis",1263,640,6239780,"      Oberallg√§u, Landkreis",1568,736,83210,  Saarland,13427,6505,692210041,"      Saarbr√ºcken, Regionalverband",4480,2140,234010041100,"      Saarbr√ºcken, Landeshauptstadt",2225,1063,116210042,"      Merzig-Wadern, Landkreis",1385,661,72410043,"      Neunkirchen, Landkreis",1915,975,94010044,"      Saarlouis, Landkreis",2592,1270,132210045,      Saarpfalz-Kreis,1906,918,98810046,"      St. Wendel, Landkreis",1149,541,60811,  Berlin,34278,16917,1736112,  Brandenburg,30750,15516,1523412051,"      Brandenburg an der Havel, Kreisfreie Stadt",984,517,46712052,"      Cottbus, Kreisfreie Stadt",1301,631,67012053,"      Frankfurt (Oder), Kreisfreie Stadt",750,361,38912054,"      Potsdam, Kreisfreie Stadt",1618,803,81512060,"      Barnim, Landkreis",2110,1071,103912061,"      Dahme-Spreewald, Landkreis",1927,995,93212062,"      Elbe-Elster, Landkreis",1538,796,74212063,"      Havelland, Landkreis",1792,876,91612064,"      M√§rkisch-Oderland, Landkreis",2294,1180,111412065,"      Oberhavel, Landkreis",2405,1208,119712066,"      Oberspreewald-Lausitz, Landkreis",1618,831,78712067,"      Oder-Spree, Landkreis",2260,1171,108912068,"      Ostprignitz-Ruppin, Landkreis",1326,656,67012069,"      Potsdam-Mittelmark, Landkreis",2208,1095,111312070,"      Prignitz, Landkreis",1210,591,61912071,"      Spree-Nei√üe, Landkreis",1687,849,83812072,"      Teltow-Fl√§ming, Landkreis",2025,1011,101412073,"      Uckermark, Landkreis",1697,874,82313,  Mecklenburg-Vorpommern,20315,10418,989713001,"      Kreisfreie Stadt Greifswald, Hansestadt",-,-,-13002,"      Kreisfreie Stadt Neubrandenburg, Stadt",-,-,-13003,"      Kreisfreie Stadt Rostock, Hansestadt",2310,1167,114313004,"      Kreisfreie Stadt Schwerin, Landeshauptstadt",1201,596,60513005,"      Kreisfreie Stadt Stralsund, Hansestadt",-,-,-13006,"      Kreisfreie Stadt Wismar, Hansestadt",-,-,-13051,      Landkreis Bad Doberan,-,-,-13052,      Landkreis Demmin,-,-,-13053,      Landkreis G√ºstrow,-,-,-13054,      Landkreis Ludwigslust,-,-,-13055,      Landkreis Mecklenburg-Strelitz,-,-,-13056,      Landkreis M√ºritz,-,-,-13057,      Landkreis Nordvorpommern,-,-,-13058,      Landkreis Nordwestmecklenburg,-,-,-13059,      Landkreis Ostvorpommern,-,-,-13060,      Landkreis Parchim,-,-,-13061,      Landkreis R√ºgen,-,-,-13062,      Landkreis Uecker-Randow,-,-,-13071,      Landkreis Mecklenburgische Seenplatte,3498,1799,169913072,      Landkreis Rostock,2642,1392,125013073,      Landkreis Vorpommern-R√ºgen,2918,1517,140113074,      Landkreis Nordwestmecklenburg,1819,955,86413075,      Landkreis Vorpommern-Greifswald,3225,1647,157813076,      Landkreis Ludwigslust-Parchim,2702,1345,135714,  Sachsen,54467,26283,28184141,"    Chemnitz, Regierungsbezirk",-,-,-14161,"      Chemnitz, Kreisfreie Stadt",-,-,-14166,"      Plauen, Kreisfreie Stadt",-,-,-14167,"      Zwickau, Kreisfreie Stadt",-,-,-14171,"      Annaberg, Landkreis",-,-,-14173,"      Chemnitzer Land, Landkreis",-,-,-14177,"      Freiberg, Landkreis",-,-,-14178,      Vogtlandkreis,-,-,-14181,      Mittlerer Erzgebirgskreis,-,-,-14182,"      Mittweida, Landkreis",-,-,-14188,"      Stollberg, Landkreis",-,-,-14191,"      Aue-Schwarzenberg, Landkreis",-,-,-14193,"      Zwickauer Land, Landkreis",-,-,-142,"    Dresden, Regierungsbezirk",-,-,-14262,"      Dresden, Kreisfreie Stadt",-,-,-14263,"      G√∂rlitz, Kreisfreie Stadt",-,-,-14264,"      Hoyerswerda, Kreisfreie Stadt",-,-,-14272,"      Bautzen, Landkreis",-,-,-14280,"      Mei√üen, Landkreis",-,-,-14284,      Niederschlesischer Oberlausitzkreis,-,-,-14285,"      Riesa-Gro√üenhain, Landkreis",-,-,-14286,"      L√∂bau-Zittau, Landkreis",-,-,-14287,"      S√§chsische Schweiz, Landkreis",-,-,-14290,      Wei√üeritzkreis,-,-,-14292,"      Kamenz, Landkreis",-,-,-143,"    Leipzig, Regierungsbezirk",-,-,-14365,"      Leipzig, Kreisfreie Stadt",-,-,-14374,"      Delitzsch, Landkreis",-,-,-14375,"      D√∂beln, Landkreis",-,-,-14379,"      Leipziger Land, Landkreis",-,-,-14383,      Muldentalkreis,-,-,-14389,"      Torgau-Oschatz, Landkreis",-,-,-145,"    Chemnitz, NUTS 2-Region",21802,10408,1139414511,"      Chemnitz, Stadt",3392,1599,179314521,      Erzgebirgskreis,5092,2469,262314522,"      Mittelsachsen, Landkreis",4496,2224,227214523,      Vogtlandkreis,3643,1738,190514524,"      Zwickau, Landkreis",5179,2378,2801146,"    Dresden, NUTS 2-Region",20408,9942,1046614612,"      Dresden, Stadt",5484,2662,282214625,"      Bautzen, Landkreis",4158,2049,210914626,"      G√∂rlitz, Landkreis",4064,2009,205514627,"      Mei√üen, Landkreis",3220,1538,168214628,"      S√§chsische Schweiz-Osterzgebirge, Landkreis",3482,1684,1798147,"    Leipzig, NUTS 2-Region",12257,5933,632414713,"      Leipzig, Stadt",6136,2978,315814729,"      Leipzig, Landkreis",3475,1675,180014730,"      Nordsachsen, Landkreis",2646,1280,136615,  Sachsen-Anhalt,32369,16024,1634515001,"      Dessau-Ro√ülau, Kreisfreie Stadt",1287,617,67015002,"      Halle (Saale), Kreisfreie Stadt",3092,1517,157515003,"      Magdeburg, Kreisfreie Stadt",2919,1421,149815081,      Altmarkkreis Salzwedel,1150,590,56015082,"      Anhalt-Bitterfeld, Landkreis",2548,1217,133115083,"      B√∂rde, Landkreis",2291,1186,110515084,      Burgenlandkreis,2815,1403,141215085,"      Harz, Landkreis",3474,1643,183115086,"      Jerichower Land, Landkreis",1306,656,65015087,"      Mansfeld-S√ºdharz, Landkreis",2184,1139,104515088,      Saalekreis,2521,1257,126415089,      Salzlandkreis,3157,1535,162215090,"      Stendal, Landkreis",1673,854,81915091,"      Wittenberg, Landkreis",1952,989,963151,"    Dessau, Stat. Region",-,-,-15101,"      Dessau, Kreisfreie Stadt",-,-,-15151,"      Anhalt-Zerbst, Kreis",-,-,-15153,"      Bernburg, Kreis",-,-,-15154,"      Bitterfeld, Kreis",-,-,-15159,"      K√∂then, Kreis",-,-,-15171,"      Wittenberg, Kreis",-,-,-152,"    Halle, Stat. Region",-,-,-15202,"      Halle (Saale), Kreisfreie Stadt",-,-,-15256,      Burgenlandkreis,-,-,-15260,"      Mansfelder Land, Kreis",-,-,-15261,"      Merseburg-Querfurt, Kreis",-,-,-15265,      Saalkreis,-,-,-15266,"      Sangerhausen, Kreis",-,-,-15268,"      Wei√üenfels, Kreis",-,-,-153,"    Magdeburg, Stat. Region",-,-,-15303,"      Magdeburg, Kreisfreie Stadt",-,-,-15352,"      Aschersleben-Sta√üfurt, Kreis",-,-,-15355,      B√∂rdekreis,-,-,-15357,"      Halberstadt, Kreis",-,-,-15358,"      Jerichower Land, Kreis",-,-,-15362,      Ohrekreis,-,-,-15363,"      Stendal, Kreis",-,-,-15364,"      Quedlinburg, Kreis",-,-,-15367,"      Sch√∂nebeck, Kreis",-,-,-15369,"      Wernigerode, Kreis",-,-,-15370,"      Altmarkkreis Salzwedel, Kreis",-,-,-16,  Th√ºringen,28830,14177,1465316051,"      Erfurt, krsfr. Stadt",2272,1092,118016052,"      Gera, krsfr. Stadt",1383,685,69816053,"      Jena, krsfr. Stadt",1041,506,53516054,"      Suhl, krsfr. Stadt",525,272,25316055,"      Weimar, krsfr. Stadt",837,392,44516056,"      Eisenach, krsfr. Stadt",612,275,33716061,"      Eichsfeld, Kreis",1095,565,53016062,"      Nordhausen, Kreis",1170,561,60916063,      Wartburgkreis,1679,834,84516064,      Unstrut-Hainich-Kreis,1461,686,77516065,      Kyffh√§userkreis,1189,592,59716066,"      Schmalkalden-Meiningen, Kreis",1848,880,96816067,"      Gotha, Kreis",1793,889,90416068,"      S√∂mmerda, Kreis",964,501,46316069,"      Hildburghausen, Kreis",888,431,45716070,      Ilm-Kreis,1457,706,75116071,"      Weimarer Land, Kreis",1018,482,53616072,"      Sonneberg, Kreis",907,468,43916073,"      Saalfeld-Rudolstadt, Kreis",1659,810,84916074,      Saale-Holzland-Kreis,1003,543,46016075,      Saale-Orla-Kreis,1152,579,57316076,"      Greiz, Kreis",1510,761,74916077,"      Altenburger Land, Kreis",1367,667,700

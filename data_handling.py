@@ -101,12 +101,12 @@ def saveEverything(allFrames):
             frame = frame.drop('Name',1)
             everything = everything.merge(frame,on=['Index'],how='outer')
 
-    everything.to_csv(dataDir + 'everything.csv',encoding='UTF-8',index=False)
+    everything.to_csv('everything.csv',encoding='UTF-8',index=False)
     print('Done creating superduper data file.')
     return everything
 
 def loadEverything():
-    return pandas.read_csv(dataDir + 'everything.csv',encoding='UTF-8')
+    return pandas.read_csv('everything.csv',encoding='UTF-8')
 
 def main():
     dataDir = 'AllDataFromDatabase/'

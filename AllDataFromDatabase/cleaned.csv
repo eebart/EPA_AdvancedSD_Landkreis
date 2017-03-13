@@ -1,0 +1,401 @@
+,Index,Name,Type,Construction_ConstructionOfHouses,Houses_NumberOfHouses
+0,1001,Flensburg, kreisfreie Stadt,113,46803
+1,1002,Kiel, kreisfreie Stadt,255,129149
+2,1003,Lübeck, kreisfreie Stadt,468,112576
+3,1004,Neumünster, kreisfreie Stadt,80,40357
+4,1051,Dithmarschen, Landkreis,360,68278
+5,1053,Herzogtum Lauenburg, Landkreis,558,87037
+6,1054,Nordfriesland, Landkreis,1035,96952
+7,1055,Ostholstein, Landkreis,882,111599
+8,1056,Pinneberg, Landkreis,1708,137445
+9,1057,Plön, Landkreis,341,62467
+10,1058,Rendsburg-Eckernförde, Landkreis,1276,127749
+11,1059,Schleswig-Flensburg, Landkreis,887,92203
+12,1060,Segeberg, Landkreis,809,117239
+13,1061,Steinburg, Landkreis,203,61891
+14,1062,Stormarn, Landkreis,638,103966
+15,3101,Braunschweig, kreisfreie Stadt,277,133095
+16,3102,Salzgitter, kreisfreie Stadt,54,53658
+17,3103,Wolfsburg, kreisfreie Stadt,364,61863
+18,3151,Gifhorn, Landkreis,686,75401
+19,3152,Göttingen, Landkreis,368,125424
+20,3153,Goslar, Landkreis,60,80547
+21,3154,Helmstedt, Landkreis,178,47134
+22,3155,Northeim, Landkreis,79,69119
+23,3156,Osterode am Harz, Landkreis,58,41285
+24,3157,Peine, Landkreis,255,60864
+25,3158,Wolfenbüttel, Landkreis,201,58347
+26,3241,Region Hannover, Landkreis,2351,575181
+27,3251,Diepholz, Landkreis,613,94191
+28,3252,Hameln-Pyrmont, Landkreis,162,80653
+29,3254,Hildesheim, Landkreis,368,140023
+30,3255,Holzminden, Landkreis,20,38784
+31,3256,Nienburg (Weser), Landkreis,183,54645
+32,3257,Schaumburg, Landkreis,184,78526
+33,3351,Celle, Landkreis,329,86107
+34,3352,Cuxhaven, Landkreis,782,98758
+35,3353,Harburg, Landkreis,1094,112524
+36,3354,Lüchow-Dannenberg, Landkreis,77,25478
+37,3355,Lüneburg, Landkreis,475,82634
+38,3356,Osterholz, Landkreis,332,49645
+39,3357,Rotenburg (Wümme), Landkreis,527,71421
+40,3358,Heidekreis,,242,65708
+41,3359,Stade, Landkreis,968,90060
+42,3360,Uelzen, Landkreis,170,47116
+43,3361,Verden, Landkreis,417,60410
+44,3401,Delmenhorst, kreisfreie Stadt,229,36476
+45,3402,Emden, kreisfreie Stadt,247,24754
+46,3403,Oldenburg (Oldenburg), kreisfreie Stadt,684,82889
+47,3404,Osnabrück, kreisfreie Stadt,354,84148
+48,3405,Wilhelmshaven, kreisfreie Stadt,102,44143
+49,3451,Ammerland, Landkreis,618,53084
+50,3452,Aurich, Landkreis,743,93080
+51,3453,Cloppenburg, Landkreis,1106,58450
+52,3454,Emsland, Landkreis,2230,122180
+53,3455,Friesland, Landkreis,471,49701
+54,3456,Grafschaft Bentheim, Landkreis,745,55087
+55,3457,Leer, Landkreis,738,74626
+56,3458,Oldenburg, Landkreis,326,54094
+57,3459,Osnabrück, Landkreis,1173,150558
+58,3460,Vechta, Landkreis,929,50362
+59,3461,Wesermarsch, Landkreis,133,44575
+60,3462,Wittmund, Landkreis,230,29891
+61,4011,Bremen, kreisfreie Stadt,1079,280164
+62,4012,Bremerhaven, kreisfreie Stadt,118,61811
+63,5111,Düsseldorf, kreisfreie Stadt,2182,333193
+64,5112,Duisburg, kreisfreie Stadt,493,257772
+65,5113,Essen, kreisfreie Stadt,657,310867
+66,5114,Krefeld, kreisfreie Stadt,208,117675
+67,5116,Mönchengladbach, kreisfreie Stadt,227,134403
+68,5117,Mülheim an der Ruhr, kreisfreie Stadt,327,90729
+69,5119,Oberhausen, kreisfreie Stadt,265,111439
+70,5120,Remscheid, kreisfreie Stadt,118,58700
+71,5122,Solingen, kreisfreie Stadt,196,83574
+72,5124,Wuppertal, kreisfreie Stadt,280,191387
+73,5154,Kleve, Landkreis,1057,134890
+74,5158,Mettmann, Landkreis,877,236137
+75,5162,Rhein-Kreis Neuss,,837,207994
+76,5166,Viersen, Landkreis,703,138052
+77,5170,Wesel, Landkreis,981,212976
+78,5314,Bonn, kreisfreie Stadt,769,158868
+79,5315,Köln, kreisfreie Stadt,3435,523069
+80,5316,Leverkusen, kreisfreie Stadt,278,79993
+81,5334,Städteregion Aachen, Landkreis,1050,271589
+82,5358,Düren, Landkreis,637,119258
+83,5362,Rhein-Erft-Kreis,,1478,212210
+84,5366,Euskirchen, Landkreis,525,87727
+85,5370,Heinsberg, Landkreis,974,111302
+86,5374,Oberbergischer Kreis,,452,128341
+87,5378,Rheinisch-Bergischer Kreis,,722,134706
+88,5382,Rhein-Sieg-Kreis,,2234,268283
+89,5512,Bottrop, kreisfreie Stadt,244,58774
+90,5513,Gelsenkirchen, kreisfreie Stadt,146,138004
+91,5515,Münster, kreisfreie Stadt,1272,149341
+92,5554,Borken, Landkreis,1467,149670
+93,5558,Coesfeld, Landkreis,709,91342
+94,5562,Recklinghausen, Landkreis,958,312318
+95,5566,Steinfurt, Landkreis,2008,182475
+96,5570,Warendorf, Landkreis,777,119863
+97,5711,Bielefeld, kreisfreie Stadt,1269,163934
+98,5754,Gütersloh, Landkreis,1135,155428
+99,5758,Herford, Landkreis,467,119034
+100,5762,Höxter, Landkreis,183,66000
+101,5766,Lippe, Landkreis,696,169218
+102,5770,Minden-Lübbecke, Landkreis,850,141169
+103,5774,Paderborn, Landkreis,1119,134992
+104,5911,Bochum, kreisfreie Stadt,459,194398
+105,5913,Dortmund, kreisfreie Stadt,948,307552
+106,5914,Hagen, kreisfreie Stadt,265,102138
+107,5915,Hamm, kreisfreie Stadt,215,84886
+108,5916,Herne, kreisfreie Stadt,143,83391
+109,5954,Ennepe-Ruhr-Kreis,,384,171259
+110,5958,Hochsauerlandkreis,,497,131735
+111,5962,Märkischer Kreis,,241,211176
+112,5966,Olpe, Landkreis,235,61731
+113,5970,Siegen-Wittgenstein, Landkreis,409,134647
+114,5974,Soest, Landkreis,1132,137754
+115,5978,Unna, Landkreis,579,194440
+116,6411,Darmstadt, kreisfreie Stadt,571,73296
+117,6412,Frankfurt am Main, kreisfreie Stadt,3556,346158
+118,6413,Offenbach am Main, kreisfreie Stadt,376,56557
+119,6414,Wiesbaden, kreisfreie Stadt,549,137930
+120,6431,Bergstraße, Landkreis,426,125030
+121,6432,Darmstadt-Dieburg, Landkreis,788,133652
+122,6433,Groß-Gerau, Landkreis,818,118225
+123,6434,Hochtaunuskreis,,649,108369
+124,6435,Main-Kinzig-Kreis,,822,193315
+125,6436,Main-Taunus-Kreis,,574,107310
+126,6437,Odenwaldkreis,,196,45836
+127,6438,Offenbach, Landkreis,703,158490
+128,6439,Rheingau-Taunus-Kreis,,222,89614
+129,6440,Wetteraukreis,,692,140046
+130,6531,Gießen, Landkreis,912,123257
+131,6532,Lahn-Dill-Kreis,,480,117695
+132,6533,Limburg-Weilburg, Landkreis,286,80316
+133,6534,Marburg-Biedenkopf, Landkreis,426,112180
+134,6535,Vogelsbergkreis,,101,51176
+135,6611,Kassel, kreisfreie Stadt,267,101081
+136,6631,Fulda, Landkreis,701,105286
+137,6632,Hersfeld-Rotenburg, Landkreis,111,58203
+138,6633,Kassel, Landkreis,304,115663
+139,6634,Schwalm-Eder-Kreis,,130,86497
+140,6635,Waldeck-Frankenberg, Landkreis,202,77928
+141,6636,Werra-Meißner-Kreis,,46,51393
+142,7111,Koblenz, kreisfreie Stadt,192,59551
+143,7131,Ahrweiler, Landkreis,415,65328
+144,7132,Altenkirchen (Westerwald), Landkreis,211,61513
+145,7133,Bad Kreuznach, Landkreis,296,75725
+146,7134,Birkenfeld, Landkreis,70,44078
+147,7135,Cochem-Zell, Landkreis,129,32912
+148,7137,Mayen-Koblenz, Landkreis,875,106170
+149,7138,Neuwied, Landkreis,288,88994
+150,7140,Rhein-Hunsrück-Kreis,,229,50961
+151,7141,Rhein-Lahn-Kreis,,154,63425
+152,7143,Westerwaldkreis,,388,94354
+153,7211,Trier, kreisfreie Stadt,293,56313
+154,7231,Bernkastel-Wittlich, Landkreis,388,57389
+155,7232,Eifelkreis Bitburg-Prüm,,374,48541
+156,7233,Vulkaneifel, Landkreis,125,31890
+157,7235,Trier-Saarburg, Landkreis,527,67946
+158,7311,Frankenthal (Pfalz), kreisfreie Stadt,43,21405
+159,7312,Kaiserslautern, kreisfreie Stadt,195,53646
+160,7313,Landau in der Pfalz, kreisfreie Stadt,269,22126
+161,7314,Ludwigshafen am Rhein, kreisfreie Stadt,404,78036
+162,7315,Mainz, kreisfreie Stadt,982,98029
+163,7316,Neustadt an der Weinstraße, kreisfreie Stadt,108,27477
+164,7317,Pirmasens, kreisfreie Stadt,29,24757
+165,7318,Speyer, kreisfreie Stadt,169,25116
+166,7319,Worms, kreisfreie Stadt,45,40880
+167,7320,Zweibrücken, kreisfreie Stadt,36,18182
+168,7331,Alzey-Worms, Landkreis,392,57098
+169,7332,Bad Dürkheim, Landkreis,391,64073
+170,7333,Donnersbergkreis,,128,35901
+171,7334,Germersheim, Landkreis,365,55415
+172,7335,Kaiserslautern, Landkreis,332,58528
+173,7336,Kusel, Landkreis,189,36613
+174,7337,Südliche Weinstraße, Landkreis,386,52967
+175,7338,Rhein-Pfalz-Kreis,,575,68806
+176,7339,Mainz-Bingen, Landkreis,555,98852
+177,7340,Südwestpfalz, Landkreis,164,49461
+178,8111,Stuttgart, kreisfreie Stadt,1599,301739
+179,8115,Böblingen, Landkreis,1553,171492
+180,8116,Esslingen, Landkreis,1569,247770
+181,8117,Göppingen, Landkreis,548,118502
+182,8118,Ludwigsburg, Landkreis,1600,246238
+183,8119,Rems-Murr-Kreis,,1269,197560
+184,8121,Heilbronn, kreisfreie Stadt,496,58494
+185,8125,Heilbronn, Landkreis,1004,148966
+186,8126,Hohenlohekreis,,345,49082
+187,8127,Schwäbisch Hall, Landkreis,681,85245
+188,8128,Main-Tauber-Kreis,,278,63238
+189,8135,Heidenheim, Landkreis,271,59464
+190,8136,Ostalbkreis,,693,141046
+191,8211,Baden-Baden, kreisfreie Stadt,122,30112
+192,8212,Karlsruhe, kreisfreie Stadt,703,150703
+193,8215,Karlsruhe, Landkreis,1006,202165
+194,8216,Rastatt, Landkreis,488,108228
+195,8221,Heidelberg, kreisfreie Stadt,826,70882
+196,8222,Mannheim, kreisfreie Stadt,623,156911
+197,8225,Neckar-Odenwald-Kreis,,224,66137
+198,8226,Rhein-Neckar-Kreis,,1345,262420
+199,8231,Pforzheim, kreisfreie Stadt,302,58997
+200,8235,Calw, Landkreis,403,74313
+201,8236,Enzkreis,,499,90364
+202,8237,Freudenstadt, Landkreis,229,55921
+203,8311,Freiburg im Breisgau, kreisfreie Stadt,677,104074
+204,8315,Breisgau-Hochschwarzwald, Landkreis,788,119662
+205,8316,Emmendingen, Landkreis,635,74519
+206,8317,Ortenaukreis,,1273,192226
+207,8325,Rottweil, Landkreis,373,64786
+208,8326,Schwarzwald-Baar-Kreis,,446,101654
+209,8327,Tuttlingen, Landkreis,316,61413
+210,8335,Konstanz, Landkreis,949,135271
+211,8336,Lörrach, Landkreis,719,106355
+212,8337,Waldshut, Landkreis,417,80242
+213,8415,Reutlingen, Landkreis,837,127053
+214,8416,Tübingen, Landkreis,1031,97208
+215,8417,Zollernalbkreis,,430,85429
+216,8421,Ulm, kreisfreie Stadt,426,59164
+217,8425,Alb-Donau-Kreis,,714,83038
+218,8426,Biberach, Landkreis,1020,83780
+219,8435,Bodenseekreis,,849,103003
+220,8436,Ravensburg, Landkreis,1093,121632
+221,8437,Sigmaringen, Landkreis,255,57385
+222,9161,Ingolstadt, kreisfreie Stadt,841,59036
+223,9162,München, kreisfreie Stadt,6204,699319
+224,9163,Rosenheim, kreisfreie Stadt,239,30497
+225,9171,Altötting, Landkreis,284,48236
+226,9172,Berchtesgadener Land, Landkreis,338,50171
+227,9173,Bad Tölz-Wolfratshausen, Landkreis,668,56585
+228,9174,Dachau, Landkreis,670,62967
+229,9175,Ebersberg, Landkreis,523,56298
+230,9176,Eichstätt, Landkreis,718,52249
+231,9177,Erding, Landkreis,722,54830
+232,9178,Freising, Landkreis,631,75233
+233,9179,Fürstenfeldbruck, Landkreis,846,92800
+234,9180,Garmisch-Partenkirchen, Landkreis,229,48975
+235,9181,Landsberg am Lech, Landkreis,407,50836
+236,9182,Miesbach, Landkreis,442,47997
+237,9183,Mühldorf am Inn, Landkreis,474,45558
+238,9184,München, Landkreis,1381,147513
+239,9185,Neuburg-Schrobenhausen, Landkreis,432,39075
+240,9186,Pfaffenhofen an der Ilm, Landkreis,613,50892
+241,9187,Rosenheim, Landkreis,1057,113321
+242,9188,Starnberg, Landkreis,460,62150
+243,9189,Traunstein, Landkreis,843,82317
+244,9190,Weilheim-Schongau, Landkreis,502,59631
+245,9261,Landshut, kreisfreie Stadt,642,32222
+246,9262,Passau, kreisfreie Stadt,129,27668
+247,9263,Straubing, kreisfreie Stadt,203,22806
+248,9271,Deggendorf, Landkreis,656,52363
+249,9272,Freyung-Grafenau, Landkreis,126,36716
+250,9273,Kelheim, Landkreis,458,49503
+251,9274,Landshut, Landkreis,484,62484
+252,9275,Passau, Landkreis,975,85161
+253,9276,Regen, Landkreis,109,38905
+254,9277,Rottal-Inn, Landkreis,369,50538
+255,9278,Straubing-Bogen, Landkreis,383,40574
+256,9279,Dingolfing-Landau, Landkreis,309,39073
+257,9361,Amberg, kreisfreie Stadt,168,22575
+258,9362,Regensburg, kreisfreie Stadt,1583,76186
+259,9363,Weiden in der Oberpfalz, kreisfreie Stadt,325,23360
+260,9371,Amberg-Sulzbach, Landkreis,125,49030
+261,9372,Cham, Landkreis,448,58912
+262,9373,Neumarkt in der Oberpfalz, Landkreis,757,53719
+263,9374,Neustadt an der Waldnaab, Landkreis,251,45023
+264,9375,Regensburg, Landkreis,665,83084
+265,9376,Schwandorf, Landkreis,320,66328
+266,9377,Tirschenreuth, Landkreis,94,36335
+267,9461,Bamberg, kreisfreie Stadt,242,39926
+268,9462,Bayreuth, kreisfreie Stadt,750,37814
+269,9463,Coburg, kreisfreie Stadt,83,21865
+270,9464,Hof, kreisfreie Stadt,34,26032
+271,9471,Bamberg, Landkreis,188,65857
+272,9472,Bayreuth, Landkreis,100,51239
+273,9473,Coburg, Landkreis,153,41227
+274,9474,Forchheim, Landkreis,297,52944
+275,9475,Hof, Landkreis,42,51330
+276,9476,Kronach, Landkreis,23,33024
+277,9477,Kulmbach, Landkreis,118,36567
+278,9478,Lichtenfels, Landkreis,158,31335
+279,9479,Wunsiedel im Fichtelgebirge, Landkreis,57,40874
+280,9561,Ansbach, kreisfreie Stadt,101,20513
+281,9562,Erlangen, kreisfreie Stadt,411,53277
+282,9563,Fürth, kreisfreie Stadt,739,59412
+283,9564,Nürnberg, kreisfreie Stadt,1546,260603
+284,9565,Schwabach, kreisfreie Stadt,131,18901
+285,9571,Ansbach, Landkreis,472,79917
+286,9572,Erlangen-Höchstadt, Landkreis,419,60370
+287,9573,Fürth, Landkreis,464,55358
+288,9574,Nürnberger Land, Landkreis,502,79772
+289,9575,Neustadt an der Aisch-Bad Windsheim, Landkreis,229,44410
+290,9576,Roth, Landkreis,460,55858
+291,9577,Weißenburg-Gunzenhausen, Landkreis,180,43205
+292,9661,Aschaffenburg, kreisfreie Stadt,214,35799
+293,9662,Schweinfurt, kreisfreie Stadt,57,26688
+294,9663,Würzburg, kreisfreie Stadt,355,71462
+295,9671,Aschaffenburg, Landkreis,393,81965
+296,9672,Bad Kissingen, Landkreis,185,51646
+297,9673,Rhön-Grabfeld, Landkreis,157,38373
+298,9674,Haßberge, Landkreis,103,37875
+299,9675,Kitzingen, Landkreis,154,41565
+300,9676,Miltenberg, Landkreis,193,60608
+301,9677,Main-Spessart, Landkreis,254,61225
+302,9678,Schweinfurt, Landkreis,272,53040
+303,9679,Würzburg, Landkreis,408,76118
+304,9761,Augsburg, kreisfreie Stadt,1513,138503
+305,9762,Kaufbeuren, kreisfreie Stadt,164,20647
+306,9763,Kempten (Allgäu), kreisfreie Stadt,230,31089
+307,9764,Memmingen, kreisfreie Stadt,94,19381
+308,9771,Aichach-Friedberg, Landkreis,353,55867
+309,9772,Augsburg, Landkreis,606,108404
+310,9773,Dillingen an der Donau, Landkreis,274,39509
+311,9774,Günzburg, Landkreis,432,52026
+312,9775,Neu-Ulm, Landkreis,599,75983
+313,9776,Lindau (Bodensee), Landkreis,242,40323
+314,9777,Ostallgäu, Landkreis,319,64161
+315,9778,Unterallgäu, Landkreis,538,60232
+316,9779,Donau-Ries, Landkreis,426,56026
+317,9780,Oberallgäu, Landkreis,579,82445
+318,10041,Regionalverband Saarbrücken, Landkreis,318,175554
+319,10042,Merzig-Wadern, Landkreis,327,47871
+320,10043,Neunkirchen, Landkreis,171,69302
+321,10044,Saarlouis, Landkreis,264,95689
+322,10045,Saarpfalz-Kreis,,227,72026
+323,10046,Sankt Wendel, Landkreis,89,42777
+324,12051,Brandenburg an der Havel, kreisfreie Stadt,94,42176
+325,12052,Cottbus, kreisfreie Stadt,221,51005
+326,12053,Frankfurt (Oder), kreisfreie Stadt,51,30626
+327,12054,Potsdam, kreisfreie Stadt,1047,80455
+328,12060,Barnim, Landkreis,808,86236
+329,12061,Dahme-Spreewald, Landkreis,590,77993
+330,12062,Elbe-Elster, Landkreis,86,56348
+331,12063,Havelland, Landkreis,1015,75365
+332,12064,Märkisch-Oderland, Landkreis,639,93643
+333,12065,Oberhavel, Landkreis,914,98912
+334,12066,Oberspreewald-Lausitz, Landkreis,113,64571
+335,12067,Oder-Spree, Landkreis,542,91638
+336,12068,Ostprignitz-Ruppin, Landkreis,176,52689
+337,12069,Potsdam-Mittelmark, Landkreis,787,93885
+338,12070,Prignitz, Landkreis,67,44711
+339,12071,Spree-Neiße, Landkreis,198,64391
+340,12072,Teltow-Fläming, Landkreis,457,81087
+341,12073,Uckermark, Landkreis,212,67181
+342,13003,Rostock, kreisfreie Stadt,368,108426
+343,13004,Schwerin, kreisfreie Stadt,191,55426
+344,13071,Mecklenburgische Seenplatte, Landkreis,353,-
+345,13072,Rostock, Landkreis,784,-
+346,13073,Vorpommern-Rügen, Landkreis,910,-
+347,13074,Nordwestmecklenburg, Landkreis,422,-
+348,13075,Vorpommern-Greifswald, Landkreis,737,-
+349,13076,Ludwigslust-Parchim, Landkreis,278,-
+350,14511,Chemnitz, kreisfreie Stadt,410,145676
+351,14521,Erzgebirgskreis,,516,196604
+352,14522,Mittelsachsen, Landkreis,272,177033
+353,14523,Vogtlandkreis,,290,142703
+354,14524,Zwickau, Landkreis,259,193762
+355,14612,Dresden, kreisfreie Stadt,1298,279476
+356,14625,Bautzen, Landkreis,345,158658
+357,14626,Görlitz, Landkreis,149,157129
+358,14627,Meißen, Landkreis,518,134974
+359,14628,Sächsische Schweiz-Osterzgebirge, Landkreis,411,134010
+360,14713,Leipzig, kreisfreie Stadt,783,322938
+361,14729,Leipzig, Landkreis,564,141308
+362,14730,Nordsachsen, Landkreis,306,108027
+363,15001,Dessau-Roßlau, kreisfreie Stadt,51,52262
+364,15002,Halle (Saale), kreisfreie Stadt,120,133019
+365,15003,Magdeburg, kreisfreie Stadt,377,129672
+366,15081,Altmarkkreis Salzwedel,,150,44731
+367,15082,Anhalt-Bitterfeld, Landkreis,174,95731
+368,15083,Börde, Landkreis,252,89955
+369,15084,Burgenlandkreis,,108,107308
+370,15085,Harz, Landkreis,291,128853
+371,15086,Jerichower Land, Landkreis,148,50230
+372,15087,Mansfeld-Südharz, Landkreis,78,78812
+373,15088,Saalekreis,,197,99785
+374,15089,Salzlandkreis,,129,116596
+375,15090,Stendal, Landkreis,121,64590
+376,15091,Wittenberg, Landkreis,114,71489
+377,16051,Erfurt, kreisfreie Stadt,342,103989
+378,16052,Gera, kreisfreie Stadt,83,58262
+379,16053,Jena, kreisfreie Stadt,356,52739
+380,16054,Suhl, kreisfreie Stadt,39,19905
+381,16055,Weimar, kreisfreie Stadt,42,34064
+382,16056,Eisenach, kreisfreie Stadt,44,24300
+383,16061,Eichsfeld, Landkreis,176,45667
+384,16062,Nordhausen, Landkreis,54,45086
+385,16063,Wartburgkreis,,171,62021
+386,16064,Unstrut-Hainich-Kreis,,210,53286
+387,16065,Kyffhäuserkreis,,94,41477
+388,16066,Schmalkalden-Meiningen, Landkreis,127,64161
+389,16067,Gotha, Landkreis,133,71113
+390,16068,Sömmerda, Landkreis,76,34190
+391,16069,Hildburghausen, Landkreis,73,31485
+392,16070,Ilm-Kreis,,227,59714
+393,16071,Weimarer Land, Landkreis,141,41634
+394,16072,Sonneberg, Landkreis,30,31460
+395,16073,Saalfeld-Rudolstadt, Landkreis,186,60174
+396,16074,Saale-Holzland-Kreis,,99,43212
+397,16075,Saale-Orla-Kreis,,55,44727
+398,16076,Greiz, Landkreis,97,58071
+399,16077,Altenburger Land, Landkreis,53,56746

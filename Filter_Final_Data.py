@@ -2,6 +2,10 @@ import sys
 import pandas as pd
 import numpy as np
 import os
+from data_handling import checkNameCommonality
+from data_handling import selectLandkreise
+from data_handling import saveEverything
+
 
 # Birth rate (Births/total population)                          |/
 # Population 20-40                                              |/
@@ -108,6 +112,29 @@ def redefine_age_groups(data):
 
     return data
 
+# ConstructionHouses, NumberHouses
+def HouseConstruction_NumberHouses(totaldf):
+    # Read both files
+    HouseConstruction = pd.read_csv('ConstructionOfHouses.csv', sep=';', encoding='UTF-8')
+    NumberHouses = pd.read_csv('NumberOfHouses.csv', sep=';', encoding='UTF-8')
+    # Construct dictionary for following functions
+    # Retrieved from former datahandling file
+    bothFiles = {'ConstructionOfHouses': HouseConstruction,
+                 'NumberOfHouses': NumberHouses}
+
+    checkNameCommonality(bothFiles)
+    saveEverything(bothFiles)
+
+    bothfiles_cleaned = selectLandkreise("")
+
+    checkNameCommonality({"bothfiles":bothfiles_cleaned,
+                          "rest": totaldf})
+
+    totaldf = pd.merge(totaldf, bothfiles_cleaned, how='outer', on=['Index', 'Name', 'Type']).drop('Unnamed: 0', axis=1)
+    totaldf.rename(columns={'Construction_ConstructionOfHouses': 'Construction of houses',
+                    'Houses_NumberOfHouses': 'Number of houses'}, inplace=True)
+
+    return totaldf
 
 
 def main():
@@ -125,6 +152,8 @@ def main():
     all_data = all_data.replace('', np.nan)
     # Redefine the age groups
     all_data = redefine_age_groups(all_data)
+
+    all_data = HouseConstruction_NumberHouses(all_data)
     # Calculate the differences in life exp between women and men
     all_data['Differences in life exp'] = all_data['Avg life exp women'] - all_data['Avg life exp men']
 
@@ -133,14 +162,15 @@ def main():
 
     # Calculate population density
     all_data['Population density (inh/km2)'] = all_data['Total_age'] / all_data['Area (km^2)_surface']
-
     # Select data that can be used as input for the model
     data4model = all_data[['Index', 'Name', 'Birthrate/1000 inh', 'Beds in hospitals (JD)_hospital',
                        '20-40 year olds', '40-65 year olds', '65 year and older',
                        'Total_workingAge', 'Total Unemployed_unemployed',
                        'Population density (inh/km2)', 'Kaufsumme - Total (Tsd. EUR)_worthArea',
                        'Hospitals_hospital', 'Avg life exp men', 'Avg life exp women',
-                       'Differences in life exp', 'Spendable Income']]
+                       'Differences in life exp', 'Spendable Income', 'Area (km^2)_surface',
+                       'Construction of houses', 'Number of houses']]
+
     # Save to csv
     data4model.to_csv('ModelInputData.csv', index=False)
 

@@ -33,10 +33,6 @@ def similarity_check(s1, s2):
         return False
 
 
-
-
-
-
 def main():
     # Reading shape file
     GeoFrame = gpd.read_file('vg2500_krs.shp')

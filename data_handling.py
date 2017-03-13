@@ -1,3 +1,4 @@
+import sys
 import numpy as numpy
 import pandas as pandas
 
@@ -107,10 +108,15 @@ def saveEverything(allFrames):
 def loadEverything():
     return pandas.read_csv(dataDir + 'everything.csv',encoding='UTF-8')
 
-dataDir = 'AllDataFromDatabase/'
+def main():
+    dataDir = 'AllDataFromDatabase/'
 
-allFrames = loadCSVs(dataDir)
-checkNameCommonality(allFrames)
-everything = saveEverything(allFrames)
+    allFrames = loadCSVs(dataDir)
+    checkNameCommonality(allFrames)
+    everything = saveEverything(allFrames)
 
-cleaned = selectLandkreise(dataDir)
+    cleaned = selectLandkreise(dataDir)
+
+if __name__ == '__main__':
+    main()
+    sys.exit()

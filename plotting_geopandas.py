@@ -64,7 +64,7 @@ def main():
 
         kreisedata = all_kreise_data['Total_age']
         GeoFrame = GeoFrame.join(kreisedata)
-        GeoFrame.plot(column='Total_age', scheme='QUANTILES', cmap='bwr', k=5, legend=True)
+        GeoFrame.plot(column='Total_age', scheme='QUANTILES', cmap='gist_yarg', k=5, legend=True)
         plt.show()
 
 # Filter specific Kreise

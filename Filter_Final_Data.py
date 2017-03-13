@@ -141,7 +141,7 @@ def main():
                        'Population density (inh/km2)', 'Kaufsumme - Total (Tsd. EUR)_worthArea',
                        'Hospitals_hospital', 'Avg life exp men', 'Avg life exp women',
                        'Differences in life exp', 'Spendable Income']]
-
+    # Save to csv
     data4model.to_csv('ModelInputData.csv', index=False)
 
 if __name__ == '__main__':

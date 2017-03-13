@@ -1,0 +1,403 @@
+Schluessel; Name; Wert
+01001; Flensburg, Kreisfreie Stadt; 18956
+01002; Kiel, Landeshauptstadt, Kreisfreie Stadt; 18330
+01003; Lübeck, Hansestadt, Kreisfreie Stadt; 18927
+01004; Neumünster, Kreisfreie Stadt; 18135
+01051; Dithmarschen, Landkreis; 20490
+01053; Herzogtum Lauenburg, Landkreis; 22784
+01054; Nordfriesland, Landkreis; 22861
+01055; Ostholstein, Landkreis; 21694
+01056; Pinneberg, Landkreis; 23766
+01057; Plön, Landkreis; 21610
+01058; Rendsburg-Eckernförde, Landkreis; 22093
+01059; Schleswig-Flensburg, Landkreis; 20830
+01060; Segeberg, Landkreis; 22109
+01061; Steinburg, Landkreis; 20869
+01062; Stormarn, Landkreis; 24700
+02000; Hamburg; 23596
+03101; Braunschweig, Kreisfreie Stadt; 19803
+03102; Salzgitter, Kreisfreie Stadt; 19320
+03103; Wolfsburg, Kreisfreie Stadt; 21176
+03151; Gifhorn, Landkreis; 20751
+03152; Göttingen, Landkreis; 19444
+03153; Goslar, Landkreis; 19706
+03154; Helmstedt, Landkreis; 21005
+03155; Northeim, Landkreis; 20473
+03156; Osterode am Harz, Landkreis; 20428
+03157; Peine, Landkreis; 20021
+03158; Wolfenbüttel, Landkreis; 20293
+03241; Region Hannover, Landkreis; 20135
+03251; Diepholz, Landkreis; 21588
+03252; Hameln-Pyrmont, Landkreis; 20565
+03254; Hildesheim, Landkreis; 19957
+03255; Holzminden, Landkreis; 20236
+03256; Nienburg (Weser), Landkreis; 19941
+03257; Schaumburg, Landkreis; 20598
+03351; Celle, Landkreis; 19482
+03352; Cuxhaven, Landkreis; 20518
+03353; Harburg, Landkreis; 24050
+03354; Lüchow-Dannenberg, Landkreis; 19035
+03355; Lüneburg, Landkreis; 19433
+03356; Osterholz, Landkreis; 21268
+03357; Rotenburg (Wümme), Landkreis; 20557
+03358; Heidekreis, Landkreis; 19673
+03359; Stade, Landkreis; 21358
+03360; Uelzen, Landkreis; 19669
+03361; Verden, Landkreis; 22648
+03401; Delmenhorst, Kreisfreie Stadt; 18634
+03402; Emden, Kreisfreie Stadt; 18048
+03403; Oldenburg (Oldenburg), Kreisfreie Stadt; 18949
+03404; Osnabrück, Kreisfreie Stadt; 20137
+03405; Wilhelmshaven, Kreisfreie Stadt; 17493
+03451; Ammerland, Landkreis; 20845
+03452; Aurich, Landkreis; 18529
+03453; Cloppenburg, Landkreis; 19037
+03454; Emsland, Landkreis; 19189
+03455; Friesland, Landkreis; 19329
+03456; Grafschaft Bentheim, Landkreis; 18335
+03457; Leer, Landkreis; 17524
+03458; Oldenburg, Landkreis; 21272
+03459; Osnabrück, Landkreis; 21040
+03460; Vechta, Landkreis; 21202
+03461; Wesermarsch, Landkreis; 20143
+03462; Wittmund, Landkreis; 19062
+04011; Bremen, Kreisfreie Stadt; 20582
+04012; Bremerhaven, Kreisfreie Stadt; 17404
+05111; Düsseldorf, Kreisfreie Stadt; 24128
+05112; Duisburg, Kreisfreie Stadt; 16761
+05113; Essen, Kreisfreie Stadt; 20046
+05114; Krefeld, Kreisfreie Stadt; 20944
+05116; Mönchengladbach, Kreisfreie Stadt; 20705
+05117; Mülheim an der Ruhr, Kreisfreie Stadt; 22867
+05119; Oberhausen, Kreisfreie Stadt; 17956
+05120; Remscheid, Kreisfreie Stadt; 22174
+05122; Solingen, Kreisfreie Stadt; 23169
+05124; Wuppertal, Kreisfreie Stadt; 20746
+05154; Kleve, Kreis; 19649
+05158; Mettmann, Kreis; 24519
+05162; Rhein-Kreis Neuss; 23689
+05166; Viersen, Kreis; 21988
+05170; Wesel, Kreis; 20936
+05314; Bonn, Kreisfreie Stadt; 23005
+05315; Köln, Kreisfreie Stadt; 20799
+05316; Leverkusen, Kreisfreie Stadt; 20121
+05334; Städteregion Aachen (einschl. Stadt Aachen); 19652
+05358; Düren, Kreis; 20228
+05362; Rhein-Erft-Kreis; 21542
+05366; Euskirchen, Kreis; 20629
+05370; Heinsberg, Kreis; 18979
+05374; Oberbergischer Kreis; 22192
+05378; Rheinisch-Bergischer Kreis; 24567
+05382; Rhein-Sieg-Kreis; 22669
+05512; Bottrop, Kreisfreie Stadt; 19185
+05513; Gelsenkirchen, Kreisfreie Stadt; 16136
+05515; Münster, Kreisfreie Stadt; 22127
+05554; Borken, Kreis; 20527
+05558; Coesfeld, Kreis; 22179
+05562; Recklinghausen, Kreis; 19382
+05566; Steinfurt, Kreis; 20477
+05570; Warendorf, Kreis; 22079
+05711; Bielefeld, Kreisfreie Stadt; 21158
+05754; Gütersloh, Kreis; 23294
+05758; Herford, Kreis; 22224
+05762; Höxter, Kreis; 20016
+05766; Lippe, Kreis; 22582
+05770; Minden-Lübbecke, Kreis; 21652
+05774; Paderborn, Kreis; 19968
+05911; Bochum, Kreisfreie Stadt; 19422
+05913; Dortmund, Kreisfreie Stadt; 18206
+05914; Hagen, Kreisfreie Stadt; 20017
+05915; Hamm, Kreisfreie Stadt; 17766
+05916; Herne, Kreisfreie Stadt; 17679
+05954; Ennepe-Ruhr-Kreis; 24236
+05958; Hochsauerlandkreis; 22750
+05962; Märkischer Kreis; 24680
+05966; Olpe, Kreis; 27125
+05970; Siegen-Wittgenstein, Kreis; 23366
+05974; Soest, Kreis; 21376
+05978; Unna, Kreis; 20283
+06411; Darmstadt, Kreisfreie Stadt; 21177
+06412; Frankfurt am Main, Kreisfreie Stadt; 20555
+06413; Offenbach am Main, Kreisfreie Stadt; 17459
+06414; Wiesbaden, Landeshauptstadt, Kreisfreie Stadt; 22243
+06431; Bergstraße, Landkreis; 22341
+06432; Darmstadt-Dieburg, Landkreis; 22927
+06433; Groß-Gerau, Landkreis; 20066
+06434; Hochtaunuskreis; 29288
+06435; Main-Kinzig-Kreis; 21744
+06436; Main-Taunus-Kreis; 25785
+06437; Odenwaldkreis; 20249
+06438; Offenbach, Landkreis; 22726
+06439; Rheingau-Taunus-Kreis; 23723
+06440; Wetteraukreis; 22008
+06531; Gießen, Landkreis; 19762
+06532; Lahn-Dill-Kreis; 21813
+06533; Limburg-Weilburg, Landkreis; 20920
+06534; Marburg-Biedenkopf, Landkreis; 19718
+06535; Vogelsbergkreis; 20485
+06611; Kassel, Kreisfreie Stadt; 18621
+06631; Fulda, Landkreis; 20783
+06632; Hersfeld-Rotenburg, Landkreis; 20264
+06633; Kassel, Landkreis; 21595
+06634; Schwalm-Eder-Kreis; 20518
+06635; Waldeck-Frankenberg, Landkreis; 20883
+06636; Werra-Meißner-Kreis; 19339
+07111; Koblenz, Kreisfreie Stadt; 20254
+07131; Ahrweiler, Landkreis; 22438
+07132; Altenkirchen (Westerwald), Landkreis; 20718
+07133; Bad Kreuznach, Landkreis; 21351
+07134; Birkenfeld, Landkreis; 21382
+07135; Cochem-Zell, Landkreis; 21887
+07137; Mayen-Koblenz, Landkreis; 21559
+07138; Neuwied, Landkreis; 22447
+07140; Rhein-Hunsrück-Kreis; 21971
+07141; Rhein-Lahn-Kreis; 21912
+07143; Westerwaldkreis; 22817
+07211; Trier, Kreisfreie Stadt; 19938
+07231; Bernkastel-Wittlich, Landkreis; 23533
+07232; Eifelkreis Bitburg-Prüm; 21339
+07233; Vulkaneifel, Landkreis; 21051
+07235; Trier-Saarburg, Landkreis; 21976
+07311; Frankenthal (Pfalz), Kreisfreie Stadt; 19999
+07312; Kaiserslautern, Kreisfreie Stadt; 18870
+07313; Landau in der Pfalz, Kreisfreie Stadt; 21099
+07314; Ludwigshafen am Rhein, Kreisfreie Stadt; 18453
+07315; Mainz, Kreisfreie Stadt; 20841
+07316; Neustadt an der Weinstraße, Kreisfreie Stadt; 24580
+07317; Pirmasens, Kreisfreie Stadt; 19662
+07318; Speyer, Kreisfreie Stadt; 23067
+07319; Worms, Kreisfreie Stadt; 19940
+07320; Zweibrücken, Kreisfreie Stadt; 19759
+07331; Alzey-Worms, Landkreis; 21770
+07332; Bad Dürkheim, Landkreis; 24556
+07333; Donnersbergkreis; 20540
+07334; Germersheim, Landkreis; 21292
+07335; Kaiserslautern, Landkreis; 20630
+07336; Kusel, Landkreis; 19756
+07337; Südliche Weinstraße, Landkreis; 22360
+07338; Rhein-Pfalz-Kreis; 24415
+07339; Mainz-Bingen, Landkreis; 26177
+07340; Südwestpfalz, Landkreis; 21698
+08111; Stuttgart, Landeshauptstadt, Kreisfreie Stadt; 23759
+08115; Böblingen, Landkreis; 23483
+08116; Esslingen, Landkreis; 23606
+08117; Göppingen, Landkreis; 22333
+08118; Ludwigsburg, Landkreis; 23470
+08119; Rems-Murr-Kreis; 23752
+08121; Heilbronn, Kreisfreie Stadt; 41707
+08125; Heilbronn, Landkreis; 23040
+08126; Hohenlohekreis; 22708
+08127; Schwäbisch Hall, Landkreis; 21443
+08128; Main-Tauber-Kreis; 21685
+08135; Heidenheim, Landkreis; 21826
+08136; Ostalbkreis; 22322
+08211; Baden-Baden, Kreisfreie Stadt; 29043
+08212; Karlsruhe, Kreisfreie Stadt; 21417
+08215; Karlsruhe, Landkreis; 22619
+08216; Rastatt, Landkreis; 21659
+08221; Heidelberg, Kreisfreie Stadt; 22337
+08222; Mannheim, Universitätsstadt, Kreisfreie Stadt; 19846
+08225; Neckar-Odenwald-Kreis; 20684
+08226; Rhein-Neckar-Kreis; 23240
+08231; Pforzheim, Kreisfreie Stadt; 21646
+08235; Calw, Landkreis; 22535
+08236; Enzkreis; 23687
+08237; Freudenstadt, Landkreis; 23297
+08311; Freiburg im Breisgau, Kreisfreie Stadt; 20233
+08315; Breisgau-Hochschwarzwald, Landkreis; 23000
+08316; Emmendingen, Landkreis; 21395
+08317; Ortenaukreis; 21662
+08325; Rottweil, Landkreis; 23204
+08326; Schwarzwald-Baar-Kreis; 22919
+08327; Tuttlingen, Landkreis; 23851
+08335; Konstanz, Landkreis; 22339
+08336; Lörrach, Landkreis; 23199
+08337; Waldshut, Landkreis; 22165
+08415; Reutlingen, Landkreis; 23126
+08416; Tübingen, Landkreis; 21513
+08417; Zollernalbkreis; 23938
+08421; Ulm, Universitätsstadt, Kreisfreie Stadt; 24682
+08425; Alb-Donau-Kreis; 21860
+08426; Biberach, Landkreis; 21915
+08435; Bodenseekreis; 23754
+08436; Ravensburg, Landkreis; 22091
+08437; Sigmaringen, Landkreis; 21391
+09161; Ingolstadt; 21368
+09162; München, Landeshauptstadt; 25838
+09163; Rosenheim; 23450
+09171; Altötting, Landkreis; 22242
+09172; Berchtesgadener Land, Landkreis; 21120
+09173; Bad Tölz-Wolfratshausen, Landkreis; 25544
+09174; Dachau, Landkreis; 23438
+09175; Ebersberg, Landkreis; 25659
+09176; Eichstätt, Landkreis; 22170
+09177; Erding, Landkreis; 22930
+09178; Freising, Landkreis; 22650
+09179; Fürstenfeldbruck, Landkreis; 24758
+09180; Garmisch-Partenkirchen, Landkreis; 24414
+09181; Landsberg am Lech, Landkreis; 23842
+09182; Miesbach, Landkreis; 27168
+09183; Mühldorf a.Inn, Landkreis; 22129
+09184; München, Landkreis; 29954
+09185; Neuburg-Schrobenhausen, Landkreis; 21534
+09186; Pfaffenhofen a.d.Ilm, Landkreis; 23405
+09187; Rosenheim, Landkreis; 23736
+09188; Starnberg, Landkreis; 34915
+09189; Traunstein, Landkreis; 22942
+09190; Weilheim-Schongau, Landkreis; 23757
+09261; Landshut; 22306
+09262; Passau; 20034
+09263; Straubing; 21545
+09271; Deggendorf, Landkreis; 20816
+09272; Freyung-Grafenau, Landkreis; 19009
+09273; Kelheim, Landkreis; 21810
+09274; Landshut, Landkreis; 22636
+09275; Passau, Landkreis; 20074
+09276; Regen, Landkreis; 19774
+09277; Rottal-Inn, Landkreis; 21209
+09278; Straubing-Bogen, Landkreis; 20748
+09279; Dingolfing-Landau, Landkreis; 21155
+09361; Amberg; 21747
+09362; Regensburg; 21522
+09363; Weiden i.d.OPf.; 20430
+09371; Amberg-Sulzbach, Landkreis; 20317
+09372; Cham, Landkreis; 20496
+09373; Neumarkt i.d.OPf., Landkreis; 21585
+09374; Neustadt a.d.Waldnaab, Landkreis; 20170
+09375; Regensburg, Landkreis; 22035
+09376; Schwandorf, Landkreis; 20237
+09377; Tirschenreuth, Landkreis; 20653
+09461; Bamberg; 20499
+09462; Bayreuth; 21599
+09463; Coburg; 24062
+09464; Hof; 20190
+09471; Bamberg, Landkreis; 21924
+09472; Bayreuth, Landkreis; 21539
+09473; Coburg, Landkreis; 24155
+09474; Forchheim, Landkreis; 22552
+09475; Hof, Landkreis; 21085
+09476; Kronach, Landkreis; 24045
+09477; Kulmbach, Landkreis; 21714
+09478; Lichtenfels, Landkreis; 21203
+09479; Wunsiedel i.Fichtelgebirge, Landkreis; 21792
+09561; Ansbach; 20834
+09562; Erlangen; 23775
+09563; Fürth; 23046
+09564; Nürnberg; 21791
+09565; Schwabach; 23979
+09571; Ansbach, Landkreis; 21921
+09572; Erlangen-Höchstadt, Landkreis; 24666
+09573; Fürth, Landkreis; 23965
+09574; Nürnberger Land, Landkreis; 25145
+09575; Neustadt a.d.Aisch-Bad Windsheim, Landkreis; 21424
+09576; Roth, Landkreis; 23168
+09577; Weißenburg-Gunzenhausen, Landkreis; 21351
+09661; Aschaffenburg; 23154
+09662; Schweinfurt; 20499
+09663; Würzburg; 24066
+09671; Aschaffenburg, Landkreis; 23364
+09672; Bad Kissingen, Landkreis; 21219
+09673; Rhön-Grabfeld, Landkreis; 20814
+09674; Haßberge, Landkreis; 20328
+09675; Kitzingen, Landkreis; 21919
+09676; Miltenberg, Landkreis; 22016
+09677; Main-Spessart, Landkreis; 21855
+09678; Schweinfurt, Landkreis; 21304
+09679; Würzburg, Landkreis; 22352
+09761; Augsburg; 18424
+09762; Kaufbeuren; 21839
+09763; Kempten (Allgäu); 21745
+09764; Memmingen; 24017
+09771; Aichach-Friedberg, Landkreis; 23897
+09772; Augsburg, Landkreis; 23492
+09773; Dillingen a.d.Donau, Landkreis; 22793
+09774; Günzburg, Landkreis; 24048
+09775; Neu-Ulm, Landkreis; 22945
+09776; Lindau (Bodensee), Landkreis; 23112
+09777; Ostallgäu, Landkreis; 22428
+09778; Unterallgäu, Landkreis; 23573
+09779; Donau-Ries, Landkreis; 23371
+09780; Oberallgäu, Landkreis; 23218
+10041; Saarbrücken, Regionalverband; 18923
+10042; Merzig-Wadern, Landkreis; 17893
+10043; Neunkirchen, Landkreis; 19318
+10044; Saarlouis, Landkreis; 19696
+10045; Saarpfalz-Kreis; 21429
+10046; St. Wendel, Landkreis; 25599
+11000; Berlin; 18594
+12051; Brandenburg an der Havel, Kreisfreie Stadt; 16783
+12052; Cottbus, Kreisfreie Stadt; 17722
+12053; Frankfurt (Oder), Kreisfreie Stadt; 17078
+12054; Potsdam, Kreisfreie Stadt; 18247
+12060; Barnim, Landkreis; 19102
+12061; Dahme-Spreewald, Landkreis; 19393
+12062; Elbe-Elster, Landkreis; 17617
+12063; Havelland, Landkreis; 18823
+12064; Märkisch-Oderland, Landkreis; 18595
+12065; Oberhavel, Landkreis; 18799
+12066; Oberspreewald-Lausitz, Landkreis; 18037
+12067; Oder-Spree, Landkreis; 18656
+12068; Ostprignitz-Ruppin, Landkreis; 17564
+12069; Potsdam-Mittelmark, Landkreis; 20597
+12070; Prignitz, Landkreis; 18043
+12071; Spree-Neiße, Landkreis; 18801
+12072; Teltow-Fläming, Landkreis; 19160
+12073; Uckermark, Landkreis; 17334
+13003; Kreisfreie Stadt Rostock, Hansestadt; 16423
+13004; Kreisfreie Stadt Schwerin, Landeshauptstadt; 17502
+13071; Landkreis Mecklenburgische Seenplatte; 17503
+13072; Landkreis Rostock; 18309
+13073; Landkreis Vorpommern-Rügen; 17486
+13074; Landkreis Nordwestmecklenburg; 17527
+13075; Landkreis Vorpommern-Greifswald; 16627
+13076; Landkreis Ludwigslust-Parchim; 18590
+14511; Chemnitz, Stadt; 18611
+14521; Erzgebirgskreis; 18124
+14522; Mittelsachsen, Landkreis; 18604
+14523; Vogtlandkreis; 18566
+14524; Zwickau, Landkreis; 18656
+14612; Dresden, Stadt; 17638
+14625; Bautzen, Landkreis; 18623
+14626; Görlitz, Landkreis; 17483
+14627; Meißen, Landkreis; 19013
+14628; Sächsische Schweiz-Osterzgebirge, Landkreis; 18735
+14713; Leipzig, Stadt; 16542
+14729; Leipzig, Landkreis; 19319
+14730; Nordsachsen, Landkreis; 18348
+15001; Dessau-Roßlau, Kreisfreie Stadt; 18199
+15002; Halle (Saale), Kreisfreie Stadt; 16411
+15003; Magdeburg, Kreisfreie Stadt; 16912
+15081; Altmarkkreis Salzwedel; 18380
+15082; Anhalt-Bitterfeld, Landkreis; 17723
+15083; Börde, Landkreis; 18917
+15084; Burgenlandkreis; 17761
+15085; Harz, Landkreis; 17869
+15086; Jerichower Land, Landkreis; 19313
+15087; Mansfeld-Südharz, Landkreis; 17363
+15088; Saalekreis; 18673
+15089; Salzlandkreis; 17237
+15090; Stendal, Landkreis; 17287
+15091; Wittenberg, Landkreis; 18129
+16051; Erfurt, krsfr. Stadt; 17244
+16052; Gera, krsfr. Stadt; 17971
+16053; Jena, krsfr. Stadt; 16920
+16054; Suhl, krsfr. Stadt; 20058
+16055; Weimar, krsfr. Stadt; 17227
+16056; Eisenach, krsfr. Stadt; 17742
+16061; Eichsfeld, Kreis; 18177
+16062; Nordhausen, Kreis; 17128
+16063; Wartburgkreis; 18557
+16064; Unstrut-Hainich-Kreis; 17480
+16065; Kyffhäuserkreis; 16941
+16066; Schmalkalden-Meiningen, Kreis; 18557
+16067; Gotha, Kreis; 17743
+16068; Sömmerda, Kreis; 17858
+16069; Hildburghausen, Kreis; 18646
+16070; Ilm-Kreis; 17719
+16071; Weimarer Land, Kreis; 18190
+16072; Sonneberg, Kreis; 18939
+16073; Saalfeld-Rudolstadt, Kreis; 18322
+16074; Saale-Holzland-Kreis; 18486
+16075; Saale-Orla-Kreis; 18299
+16076; Greiz, Kreis; 18683
+16077; Altenburger Land, Kreis; 17699

@@ -136,7 +136,6 @@ def HouseConstruction_NumberHouses(totaldf):
 
     return totaldf
 
-
 def main():
     # Read csv file with all previously cleaned data
     all_data = pd.read_csv('data_final.csv')

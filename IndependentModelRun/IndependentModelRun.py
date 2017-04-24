@@ -60,6 +60,9 @@ class Model():
             self.cases.append(Case(ident,name,record))
             curr_index += 1
 
+    def add_outcome(self, outcome):
+        self.outcomes.append(outcome)
+
     def add_outcomes(self, outcome_list):
         self.outcomes.extend(outcome_list)
 

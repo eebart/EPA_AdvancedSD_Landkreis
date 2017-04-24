@@ -3,7 +3,7 @@ Adapted from EMA Workbench
 https://github.com/quaquel/EMAworkbench
 
 by default it is assumed the dll is readily available. If this generates an
-VensimError, you have to find the location of the dll and either copy it to
+exception, you have to find the location of the dll and either copy it to
 C:\Windows\System32 and/or C:\Windows\SysWOW64, or use::
 
     vensim = ctypes.windll.LoadLibrary('location of dll')
@@ -41,7 +41,7 @@ def be_quiet(quietflag=2):
     interrogative dialogs'
     '''
     if quietflag > 2:
-        raise VensimError("incorrect value for quietflag")
+        raise Exception("incorrect value for quietflag")
 
     return vensim.vensim_be_quiet(quietflag)
 
@@ -86,7 +86,7 @@ def run_simulation(file_name):
         command("SIMULATE>RUNNAME|"+file_name+"|O")
         command("MENU>RUN|o")
     except Exception as e:
-        raise Exception(str(e))
+        raise Exception("Problem running simulation: {}".format(str(e)))
 
 def get_varattrib(varname, attribute):
     '''
@@ -131,7 +131,7 @@ def get_varattrib(varname, attribute):
                                                buf,
                                                maxBuf)
     if bufferlength == -1:
-        raise VensimWarning("variable not found")
+        raise Exception("variable {} not found when getting attribute {}".format(varname, attribute))
 
     buf = ctypes.create_string_buffer(''.encode('utf-8'), int(bufferlength))
     maxBuf = ctypes.c_int(int(bufferlength))
@@ -160,7 +160,7 @@ def get_value(name):
     value = ctypes.c_float(0)
     return_val = vensim.vensim_get_val(name.encode('utf-8'), ctypes.byref(value))
     if return_val == 0:
-        raise VensimWarning("variable not found")
+        raise Exception("variable {} not found when getting value.".format(name))
 
     return value.value
 
@@ -189,8 +189,8 @@ def set_value(variable, value):
     else:
         try:
             command("SIMULATE>SETVAL|"+variable+"="+str(value))
-        except VensimWarning:
-            warning('variable: \'' +variable+'\' not found')
+        except:
+            warning('variable \'' +variable+'\' not found when setting value')
 
 def get_data(filename, variable_name, tname="Time"):
     '''
@@ -229,7 +229,7 @@ def get_data(filename, variable_name, tname="Time"):
                                         maxn)
 
     if return_val == 0:
-        raise VensimWarning("variable "+variable_name+" not found in dataset")
+        raise Exception("variable "+variable_name+" not found in dataset when retrieving value")
 
     vval = (ctypes.c_float * int(return_val))()
     tval = (ctypes.c_float * int(return_val))()

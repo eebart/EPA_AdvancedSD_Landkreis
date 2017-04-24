@@ -48,13 +48,13 @@ class Model():
         self.cases = []
         for record in case_dict:
             if 'id' in record:
-                ident = record['id']
+                ident = str(record['id'])
                 del record['id']
             else:
                 ident = str(curr_index)
 
             if 'name' in record:
-                name = record['name']
+                name = str(record['name'])
                 del record['name']
 
             self.cases.append(Case(ident,name,record))
@@ -126,7 +126,7 @@ class Model():
                     set_value(key, value)
 
             try:
-                print("Running simulation for '{}'".format(case.name))
+                # print("Running simulation for '{}'".format(case.name))
                 case.result_file = self.results_dir + case.id + '_' + case.name + '.vdf'
                 run_simulation(case.result_file)
             except Exception:
@@ -139,14 +139,15 @@ class Model():
         if len(result[0]) != self.run_length:
             data = np.empty((self.run_length))
             data[:] = np.NAN
-            data[0:len(result[0])] = result
-            result = data
+            data[0:len(result[0])] = result[0]
+            result = [data]
             error = True
         return result, error
 
     def get_results(self):
         error = False
         badcount = 0
+        problems = []
 
         for case in self.cases:
             result_filename = os.path.join(self.working_directory, case.result_file)
@@ -157,9 +158,10 @@ class Model():
                 case.results.append(Result(variable, np.array(result)))
 
             if error:
-                badcount += 1
+                problems.append(case.name)
 
-        print('{} out of {} cases ran into difficulties.'.format(badcount, len(self.cases)))
+        print('{} out of {} cases ran into difficulties: {}'.format(len(problems), len(self.cases)))
+        return problems
 
 def save_results(cases, results_file):
     keys = set()
